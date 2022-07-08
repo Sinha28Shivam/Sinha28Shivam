@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+        background-image: url('https://pbs.twimg.com/ext_tw_video_thumb/1410294969902854150/pu/img/qqjrRSFa8k35HgL3.jpg:large');
+           text-align: center;
+           
+       }
+       button {
+            margin-top: 50px;
+            border: none;
+            background-color: rgb(53, 53, 137);
+            height: 25px;
+            width: auto;
+            color: white;
+            border-radius: 6px;
+        }
+
+        button:hover {
+            border-radius: 30px;
+            background-color: greenyellow;
+        }
+
+        
+        a{
+            color: white;
+            text-decoration: none;
+        }
+        
+        .br:hover{
+            font-size: 15px;
+            color: #fff;
+            border-radius: 10px;
+            border-color: rgba(18, 123, 221, 0.788);
+            
+           
+        }
+        .tr{
+            font-size: 20px;
+            font-family: ui-monospace;
+            border-radius: 19px;
+            border-color: rgb(218, 41, 41);
+        }
+        .container {
+    /* background: rgba(55, 166, 240, 0.726); */
+    width: 500px;
+    padding: 25px;
+    margin: 50px auto;
+   /* galss code  */
+    border-top: 5px solid rgb(3, 3, 70);
+    background: rgba(18, 152, 214, 0.342);
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 2px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+        }
+    </style>
+</head>
+<body>
+    <marquee direction="left" behavior="scrolling" height="20px" width="50%">Please Fill Your Form Correctly  ------------------------->          Check Your form Before Submiting</marquee>
+    <div class="container">
+        <center><h1 background-color= blue><u>Personal Details</u></h1></center>
+        <form>
+            <table align="center" cellspacing="20" border="11" cellpadding="10s">
+                <tr>
+                    <td class="tr">
+                        <strong>First name : </strong><span class="required">*</span> 
+                        <input type="text" name="name"  class="br">
+                    </td>
+                </tr>
+                <tr>
+                    <td class="tr">
+                        <strong>Maiden Name :</strong><span class="required">*</span>
+                        <input type="text" name="name"  class="br">
+                    </td>
+                </tr>
+                <tr>
+                    <td class="tr">
+                        <strong> Date of Birth :</strong><span class="required">*</span>
+                        <input class ="standard type" type="date" > 
+                    </td>
+                </tr>
+                <tr>
+                    <td class="tr">
+                        <strong>  Gender : </strong><span class="required">*</span>
+                        <select>
+                            <option>Male</option>
+                            <option>Female</option>
+                            <option>Third Gender</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="tr">
+                        <strong> Maritial Status :</strong><span class="required">*</span>
+                        <select>
+                            <option>Married</option>
+                            <option>Un-married</option>
+                            <option>Single</option>
+                            <option>Living Apart</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="tr">
+                    <strong>   Name of : </strong><span class="required">*</span>
+                        <input type ="radio" name="name" class="radio-button">Father
+                        <input type ="radio" name="name" class="radio-button">Mother
+                        <input type ="radio" name="name" class="radio-button">spouse
+                        <label>Name Of Guardian : </label>
+                        <input type="text" name="name" placeholder="guardian name"  class="br">
+                    </td>
+                </tr>
+                <tr>
+                    <td class="tr">
+                    <strong>   Relation With Guardian : </strong><span class="required">*</span>
+                        <input type="text" name="name" placeholder="ex. father/mother/uncle/aunt/maternal uncle"  class="br">
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td class="tr">
+                    <strong> Nationality : </strong><span class="required">*</span>
+                        <input type ="radio" name="name" class="radio-button">Indian
+                        <input type ="radio" name="name" class="radio-button">Other
+                    </td>
+                </tr>
+                <tr>
+                    <td class="tr">
+                    <strong>  Occupation Type : </strong><span class="required">*</span>
+                        <select>
+                            <option>Sate Govt.</option>
+                            <option>Central Govt.</option>
+                            <option>Public Sector Undertaking</option>
+                            <option>Defence</option>
+                            <option>Pvt.Sector</option>
+                            <option>Industrialist</option>
+                            <option>Trade Sect.</option>
+                            <option>Migrant Labour</option>
+                            <option>Constructor</option>
+                            <option>Bullion Trader</option>
+                            <option>Import/Export</option>
+                            <option>Engg./Architect/Tech.Consultant</option>
+                            <option>Retired</option>
+                            <option>journalist</option>
+                            <option>Housewife</option>
+                            <option>Student</option>
+                            <option>Agriculture</option>
+                            <option>Political/Social Sector</option>
+                            <option>Other Proffessional</option>
+                            </select>
+                    </td>
+                </tr>
+                <tr>
+                     <td class="tr">
+                    <strong> Religion :</strong><span class="required">*</span>
+                        <input type ="radio" name="name" class="radio-button">Hindu
+                        <input type ="radio" name="name" class="radio-button">Muslim
+                        <input type ="radio" name="name" class="radio-button">Christian
+                        <input type ="radio" name="name" class="radio-button">Sikh
+                        <input type ="radio" name="name" class="radio-button">Other <input type="text"  class="br" placeholder="ex: Jainism">
+                    </td>
+                </tr>
+                <tr>
+                    <td class="tr">
+                    <strong>   Personal Disability : </strong><span class="required">*</span>
+                        <input type ="radio" name="name" class="radio-button">Yes
+                        <input type ="radio" name="name" class="radio-button">No
+                    </td>
+                </tr>
+                <tr>
+                    <td class="tr">
+                    <strong> Educational Qualification :</strong><span class="required">*</span>
+                        <select>
+                            <option>Upto 9th passed</option>
+                            <option>10th passed</option>
+                            <option>Graduate(Gen)</option>
+                            <option>post Graduate(Gen)</option>
+                            <option>Med.Graduate/Post Graduate</option>
+                            <option>Engg.Graduate/Post Graduate</option>
+                            <option>CA/CWA/MBA/CFA</option>
+                            <option>Computer Degree/Diploma</option>
+                          <option>Other Professional Degree/Diploma</option>
+                            
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                   
+        
+                    <h5 style="text-align:center; font-size: 10px;"><button><a href="/ContactDetails.html">Next</a></button></h5>
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </div>
+</body>
+</html>

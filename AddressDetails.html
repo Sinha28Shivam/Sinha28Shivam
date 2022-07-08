@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+        <style>
+        body{
+        background-image: url('https://pbs.twimg.com/ext_tw_video_thumb/1410294969902854150/pu/img/qqjrRSFa8k35HgL3.jpg:large');
+           text-align: center;
+          
+           
+       }
+       button {
+            margin-top: 50px;
+            border: none;
+            background-color: rgb(53, 53, 137);
+            height: 25px;
+            width: auto;
+            color: white;
+            border-radius: 6px;
+        }
+
+        button:hover {
+            border-radius: 30px;
+            background-color: greenyellow;
+        }
+        a{
+            color: white;
+            text-decoration: none;
+        }
+        
+        .br{
+            font-size: 15px;
+            border-radius: 8px;
+            border-color: rgba(18, 123, 221, 0.788);
+           
+        }
+        .tr{
+            font-size: 19px;
+            font-family: ui-monospace;
+            border-radius: 19px;
+            border-color: rgb(218, 41, 41);
+        }
+        .container {
+    /* background: rgba(55, 166, 240, 0.726); */
+    width: 500px;
+    padding: 25px;
+    margin: 50px auto;
+   /* galss code  */
+    border-top: 5px solid rgb(3, 3, 70);
+    background: rgba(18, 152, 214, 0.342);
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 2px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+        }
+    </style>
+</head>
+<body>
+    <marquee direction="left" behavior="scrolling" height="20px" width="50%">Please Fill Your Form Correctly  ------------------------->          Check Your form Before Submiting       </marquee>
+    <div class="container">
+        <center><h1 background-color= blue><u>Address Details</u></h1></center>
+        <form>
+            <table align="center" cellspacing="20" border="11" cellpadding="10s">
+                <tr>
+                    <td class="tr">
+                        Address Type :<span class="required">*</span> 
+                        <input type="radio" class="radio-button" name="name">Current
+                        <input type="radio" class="radio-button" name="name">Permanent
+                        <input type="radio" class="radio-button" name="name">Overseas
+                    </td>
+                </tr>
+                <tr>
+                    <td class="tr">
+                        Address Type : <span class="required">*</span>
+                        <select>
+                            <option>Residential</option>
+                            <option>Rental</option>
+                            <option>Registered Office</option>           
+                            <option>Unspecified</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="tr">
+                        Address:<span class="required">*</span>
+                        <input type="text"  placeholder = "Address" class="br">
+                    </td>
+                </tr>
+                <tr>
+                    <td class="tr">
+                        City/Village :<span class="required">*</span> 
+                      <input type="text" placeholder="City/Village" class="br">
+                      
+                    </td>
+                </tr>
+                <tr>
+                    <td class="tr">
+                        District :<span class="required">*</span>
+                      <input type="text" placeholder = "District" class="br">
+                      
+                    </td>
+                </tr>
+                <tr>
+                    <td class="tr">
+                        State :<span class="required">*</span> 
+                      <input type="text" placeholder = "state" class="br">
+                     
+                    </td>
+                </tr>
+                <tr>
+                    <td class="tr">
+                       Pin :<span class="required">*</span> 
+                        <input type="number" placeholder="pin" class="br">
+                       
+                    </td>
+                </tr>
+                <tr>
+                    <td class="tr">
+                        Country :<span class="required">*</span> 
+                        <input type="text" placeholder="country" class="br">
+                    </td>
+                </tr>
+                <tr>
+                    <td class="tr">
+                       
+        
+                    <h5 style="text-align:center; font-size: 10px;"><button><a href="/ProofOfIdentity.html">Next</a></button></h5>
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+   <link rel="stylesheet" href="style.css">
+   <!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <script>  
+        function matchPassword() {  
+          var pw1 = document.getElementById("pswd1");  
+          var pw2 = document.getElementById("pswd2");  
+          if(pw1 != pw2)  
+          {   
+            alert("Passwords did not match");  
+          } else {  
+            alert("Password created successfully");  
+          }  
+        }
+
+        function clicked (e){
+            if(!confirm("Are you sure you  ???"));
+        }
+       
+        function clicked(e){
+            if(!confirm('Do you want to Proceed next?')){
+
+            }
+        }
+        window.onbeforeunload=function(){
+            return confirm('Do you want to proceed?');
+        }
+        window.addEventListener("keyup", checkForRefresh, false);
+        var checkForRefresh = function(event){
+            if(event.keyCode==16){
+                alert('Data will be lost');
+            }
+        }
+  
+        </script> 
+    <img id="logo" src="" alt="">
+
+    <div class="container">
+        <h2><u>Registration Form</h2></u>
+        <div class="form-container">
+            <form>
+
+
+                <div class="input-name"><i class="fa fa-user"></i>
+                <input type="text" placeholder="First Name" class="name" required>
+                <span>
+                    <i class="fa fa-user"></i>
+                    <input type="text" placeholder="Last Name" class="name" required>
+                </span>
+            </div>
+
+            <div class="input-name"><i class="fa fa-envelope email"></i>
+                <input type="email" placeholder="email" class="text-name" required>
+
+            </div>
+
+            <div class="input-name"><i class="fa fa-lock"></i>
+                <input type="password" placeholder="Password" class="text-name" required>
+
+            </div>
+
+            <div class="input-name"><i class="fa fa-lock"></i>
+                <input type="password" placeholder="confirm Password" class="text-name" required>
+
+            </div>
+
+            
+            <div class="input-name">
+                <input type="radio" class="radio-button" name="m1">
+                <label style="margin-right: 30px;">Male</label>
+                <input type="radio" class="radio-button" name = "m1">
+                <label>Female</label>
+            </div>
+
+           
+
+              <div class="arrow"></div>
+            </div>
+            <div class="input-name">
+                <input type="checkbox" class="check-button">
+                <label for = "check-button">I accept Terms and Conditions</label>
+                
+            </div>
+
+            <h5 style="text-align:center; font-size: 10px;" onclick="matchPassword()" onclick = "clicked(f5)"/><button>Submit</button></h5>
+        
+                    <h5 style="text-align:center; font-size: 10px;" onclick="matchPassword()"><button onclick="clicked(Event)"/><a href="/SBI.html">Next</a></button></h5>
+
+            </form>
+        </div>
+    </div>
+</body>
+</html>

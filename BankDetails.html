@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bank Details</title>
+   
+    <style>
+        .container, form,table{
+            position: center;
+           
+           
+
+        }
+        .br:hover{
+            background-color:rgb(128, 233, 215);
+            border: 2px inset rgb(33, 167, 167);
+        }
+       body{
+        background-image: url('https://pbs.twimg.com/ext_tw_video_thumb/1410294969902854150/pu/img/qqjrRSFa8k35HgL3.jpg:large');
+           text-align: center;
+           
+       }
+       button {
+            margin-top: 50px;
+            border: none;
+            background-color: rgb(53, 53, 137);
+            height: 25px;
+            width: auto;
+            color: white;
+            border-radius: 6px;
+        }
+    
+.radio-button{
+    margin: 4px;
+}
+
+        button:hover {
+            border-radius: 30px;
+            background-color: greenyellow;
+        }
+        a{
+            color: white;
+            text-decoration: none;
+        }
+        
+        .br{
+            font-size: 15px;
+            border-radius: 10px;
+            border-color: rgba(18, 123, 221, 0.788);
+           
+        }
+        .tr{
+            font-size: 20px;
+            font-family: ui-monospace;
+            border-radius: 19px;
+            border-color: rgb(218, 41, 41);
+        }
+       .container {
+    /* background: rgba(55, 166, 240, 0.726); */
+    width: 500px;
+    padding: 25px;
+    margin: 50px auto;
+   /* galss code  */
+    border-top: 5px solid rgb(3, 3, 70);
+    background: rgba(11, 49, 66, 0.363);
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 2px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+        }
+    </style>
+    
+</head>
+<body>
+ 
+    <marquee direction="left" behavior="scrolling" height="20px" width="50%">Please Fill Your Form Correctly  ------------------------->          Check Your form Before Submiting       </marquee>
+    
+    <div class="container">
+        <center><h1 background-color= blue id ="demo" onmouseover="mouseOver()" onmouseout="mouseOut()"><u>Bank Details</u></h1></center>
+        <form>
+            <table align="center" cellspacing="20" border="11" cellpadding="10s">
+                
+                <tr>
+                    <td class="tr">
+                        Branch Name : <span class="required">*</span>
+                        <input type="text" name="name" placeholder="branch name" class="br" required>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="tr">
+                        Branch Code : <span class="required">*</span>
+                        <input type="number" name="name" placeholder="branch code" class="br" required>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="tr">
+                        Customer ID : <span class="required">*</span>
+                        <input type="Number" placeholder="customer id" class="br" required>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="tr">
+                        Application Type :<span class="required">*</span>
+                        <input type ="radio" name="name" class="radio-button" placeholder="application type">New
+
+            <input type ="radio" name="name" class="radio-button" placeholder="application type">Updated
+                    </td>
+                </tr>
+                <tr>
+                    <td class="tr">
+                        Account Type :<span class="required">*</span>
+                        <input type="radio" class="radio-button" name="name">Normal
+            
+            <input type="radio" class="radio-button" name="name">Small
+           
+            <input type="radio" class="radio-button" name="name">Minor
+                    </td>
+                </tr>
+                <tr>
+                    <td class="tr">
+                        Email : <span class="required">*</span>
+                        <input type="text" name="email" placeholder="email" class="br" required>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="tr">
+                        Type Of Account : <span class="required">*</span>
+                        <select style = "border: 1px solid" border radius = "19px">
+                            <option>Savings Account</option>
+                            <option>BSBDA</option>
+                            <option>BSBDA Small Account</option>
+                            <option>Current Account(individual)</option>
+                            <option>Fixed Deposit / MOD / RD</option>
+                            <option>Caps Gain (SB)</option>
+                        </select>
+                       
+                    </td>
+                </tr>
+              <td> <h5 style="text-align:center; font-size: 10px;"><button><a href="/PersonalDetails.html">Next</a></button></h5></td>
+                
+            </table>
+        </form>
+    </div>
+</body>
+</html>
