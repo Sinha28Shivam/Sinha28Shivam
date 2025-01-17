@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Shivam Sinha and I'm a Software Developer What's up?</h2>
-<img align="left" height="350" src="https://pictographic.azureedge.net/previews/flat-modern/vxZ8IayXi70JRgKCf896.png"  />
+<img align="left" height="220" src="https://pictographic.azureedge.net/previews/flat-modern/vxZ8IayXi70JRgKCf896.png"  />
 
 ###
 
