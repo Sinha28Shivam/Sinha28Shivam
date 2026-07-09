@@ -2,6 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=220&section=header&text=Shivam%20Sinha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Building%20things%20that%20work&descAlignY=55&descSize=18" width="100%"/>
 
+<a href="https://github.com/Sinha28Shivam">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Software+Developer+%40+HCL+Technologies;Automation+%26+Game+Testing+Engineer;Learning+AI+%2F+ML+and+Generative+AI;Exploring+Agentic+AI+Systems" alt="Typing SVG" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Sinha28Shivam&color=6366f1&style=flat-square&label=Profile+Views" alt="profile views" />
+
 </div>
 
 <img align="left" height="220" src="https://pictographic.azureedge.net/previews/flat-modern/vxZ8IayXi70JRgKCf896.png"  />
@@ -39,6 +45,12 @@
 
 <br/>
 
+## 💬 Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote of the day" />
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -62,6 +74,23 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
+</div>
+
+## 🏙️ 3D Contribution Skyline
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+</div>
+
+## ⏱️ Weekly Coding Activity (WakaTime)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+## 🎧 Currently Listening
+
+<div align="center">
+  <img src="https://novatorem-sinha28shivam.vercel.app/api/spotify" alt="spotify currently playing" />
 </div>
 
 ## 🌐 Connect with Me
