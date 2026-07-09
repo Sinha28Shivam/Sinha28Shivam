@@ -116,6 +116,81 @@
 ## ⏱️ Weekly Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.74%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 172.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 220 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 39 Public Repositories 
+ > 
+> 🔑 14 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                480 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+🌆 Daytime                966 commits         █████████░░░░░░░░░░░░░░░░   34.33 % 
+🌃 Evening                649 commits         ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
+🌙 Night                  719 commits         ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   581 commits         █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+Tuesday                  315 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+Wednesday                347 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Thursday                 423 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Friday                   355 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Saturday                 101 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Sunday                   692 commits         ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               16 repos            █████████░░░░░░░░░░░░░░░░   34.78 % 
+TypeScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Python                   7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+HTML                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
+
+
+ Last Updated on 09/07/2026 19:47:18 UTC
 <!--END_SECTION:waka-->
 
 ## 🎧 Currently Listening
