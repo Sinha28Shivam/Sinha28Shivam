@@ -42,8 +42,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sinha28Shivam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinha28Shivam&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="top languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sinha28Shivam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="github stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sinha28Shivam&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="top languages" />
 </div>
 
 ## 🔥 Streak Stats
