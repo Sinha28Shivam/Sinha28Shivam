@@ -10,7 +10,7 @@
 
 </div>
 
-<img align="left" height="220" src="https://pictographic.azureedge.net/previews/flat-modern/vxZ8IayXi70JRgKCf896.png"  />
+<img align="left" height="220" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"  />
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 <br clear="both"/>
