@@ -8,6 +8,12 @@
 
 <img src="https://komarev.com/ghpvc/?username=Sinha28Shivam&color=6366f1&style=flat-square&label=Profile+Views" alt="profile views" />
 
+<br/>
+
+<a href="https://portfolio-shivam-sinha.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-6366f1?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio button" />
+</a>
+
 </div>
 
 <img align="left" height="220" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"  />
@@ -45,6 +51,14 @@
 
 <br/>
 
+## 🌱 Currently Learning / Roadmap
+
+- 🤖 Deep-diving into **AI/ML fundamentals** — model training, evaluation, and deployment
+- ✨ Building with **Generative AI** — prompt engineering, RAG pipelines, and LLM apps
+- 🧠 Exploring **Agentic AI** — multi-agent systems with LangGraph & AutoGen
+- 🧪 Sharpening **automation testing** skills with Appium across mobile platforms
+- 📚 Next up: fine-tuning open-source models and shipping an end-to-end agentic project
+
 ## 💬 Quote of the Day
 
 <div align="center">
@@ -58,6 +72,10 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sinha28Shivam&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="top languages" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sinha28Shivam&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+</div>
+
 ## 🔥 Streak Stats
 
 <div align="center">
@@ -68,6 +86,19 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sinha28Shivam&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+</div>
+
+## 📌 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|---|---|---|
+| [**Portfolio**](https://github.com/Sinha28Shivam/Portfolio) | Personal developer portfolio site | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**RealTimeChat**](https://github.com/Sinha28Shivam/RealTimeChat) | Real-time chat application | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [**Portfolio_website**](https://github.com/Sinha28Shivam/Portfolio_website) | Portfolio website project | ![Web](https://img.shields.io/badge/-Web-06B6D4?style=flat-square) |
+| [**Url_shortner**](https://github.com/Sinha28Shivam/Url_shortner) | URL shortening service | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+
 </div>
 
 ## 🐍 Contribution Snake
