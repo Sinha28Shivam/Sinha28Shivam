@@ -116,7 +116,7 @@
 ## ⏱️ Weekly Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-148-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.77%20million%20lines%20of%20code-blue?style=flat)
 
@@ -124,7 +124,7 @@
 
 > 📦 173.5 kB Used in GitHub's Storage 
  > 
-> 🏆 276 Contributions in the Year 2026
+> 🏆 296 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -132,55 +132,6 @@
  > 
 > 🔑 14 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                483 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-🌆 Daytime                1023 commits        █████████░░░░░░░░░░░░░░░░   35.37 % 
-🌃 Evening                667 commits         ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
-🌙 Night                  719 commits         ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   584 commits         █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-Tuesday                  315 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-Wednesday                347 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Thursday                 477 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Friday                   373 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Saturday                 104 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-Sunday                   692 commits         ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   5 hrs 47 mins       ████████████░░░░░░░░░░░░░   49.08 % 
-Markdown                 1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-JSON                     1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-JavaScript               53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-HTML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   38.31 % 
-Claude Code              4 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   35.63 % 
-Antigravity IDE          3 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   26.06 % 
-
-🐱‍💻 Projects: 
-NetflixGameTestHCL       9 hrs 5 mins        ███████████████████░░░░░░   77.05 % 
-Crescendo                1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-RoomDiscorveryApp        54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-Portfolio                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-config                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-
-💻 Operating System: 
-Windows                  11 hrs 47 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -198,7 +149,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 01:20:19 UTC
+ Last Updated on 25/07/2026 01:21:41 UTC
 <!--END_SECTION:waka-->
 
 ## 🎧 Currently Listening
