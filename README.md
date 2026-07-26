@@ -116,7 +116,9 @@
 ## ⏱️ Weekly Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2053%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.77%20million%20lines%20of%20code-blue?style=flat)
 
@@ -132,6 +134,54 @@
  > 
 > 🔑 14 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                487 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+🌆 Daytime                1032 commits        █████████░░░░░░░░░░░░░░░░   35.45 % 
+🌃 Evening                673 commits         ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
+🌙 Night                  719 commits         ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   584 commits         █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+Tuesday                  315 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Wednesday                347 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Thursday                 483 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+Friday                   386 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Saturday                 104 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Sunday                   692 commits         ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Python                   1 hr 48 mins        ██████████░░░░░░░░░░░░░░░   40.83 % 
+JavaScript               1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   27.95 % 
+CSS                      29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Markdown                 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Bash                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 57 mins       █████████████████░░░░░░░░   66.66 % 
+Antigravity IDE          1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+Claude Code              23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+
+🐱‍💻 Projects: 
+RoomDiscorveryApp        1 hr 36 mins        █████████░░░░░░░░░░░░░░░░   36.25 % 
+Crescendo                1 hr 26 mins        ████████░░░░░░░░░░░░░░░░░   32.69 % 
+NetflixGameTestHCL       1 hr 18 mins        ███████░░░░░░░░░░░░░░░░░░   29.61 % 
+WeatherReport            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+
+💻 Operating System: 
+Windows                  4 hrs 26 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -149,7 +199,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 01:21:41 UTC
+ Last Updated on 26/07/2026 01:23:38 UTC
 <!--END_SECTION:waka-->
 
 ## 🎧 Currently Listening
