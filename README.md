@@ -116,7 +116,9 @@
 ## ⏱️ Weekly Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2017%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-91%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -161,25 +163,48 @@ Sunday                   692 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 48 mins        ██████████░░░░░░░░░░░░░░░   40.83 % 
-JavaScript               1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   27.95 % 
-CSS                      29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Markdown                 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-Bash                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Python                   1 hr 23 mins        ████████░░░░░░░░░░░░░░░░░   33.73 % 
+JavaScript               1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   29.87 % 
+CSS                      40 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 57 mins       █████████████████░░░░░░░░   66.66 % 
-Antigravity IDE          1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
-Claude Code              23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+VS Code                  3 hrs 16 mins       ████████████████████░░░░░   78.73 % 
+Antigravity IDE          51 mins             █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
+Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 🐱‍💻 Projects: 
-RoomDiscorveryApp        1 hr 36 mins        █████████░░░░░░░░░░░░░░░░   36.25 % 
-Crescendo                1 hr 26 mins        ████████░░░░░░░░░░░░░░░░░   32.69 % 
-NetflixGameTestHCL       1 hr 18 mins        ███████░░░░░░░░░░░░░░░░░░   29.61 % 
-WeatherReport            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Crescendo                1 hr 50 mins        ███████████░░░░░░░░░░░░░░   44.30 % 
+RoomDiscorveryApp        1 hr 36 mins        ██████████░░░░░░░░░░░░░░░   38.74 % 
+NetflixGameTestHCL       38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+WeatherReport            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 💻 Operating System: 
-Windows                  4 hrs 26 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 8 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs 45 mins (66.32%)
+
+✍️ 3,737 lines written by AI, 128 lines written by hand (96.69% AI-written)
+
+🔤 9,761,839 Input Tokens, 90,673 Output Tokens
+
+💵 $25.76 Estimated AI Cost This Week
+
+🧠 11 AI Sessions, 56 AI Prompts
+
+GPT                      3,708 lines         ████████████████████████░   95.37 % 
+Gemini                   180 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 96.69% of written lines came from AI
+📚 Verbose Prompter — average 1,926 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 10.85% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -199,7 +224,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 01:27:58 UTC
+ Last Updated on 28/07/2026 01:16:21 UTC
 <!--END_SECTION:waka-->
 
 ## 🎧 Currently Listening
