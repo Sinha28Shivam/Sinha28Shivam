@@ -116,13 +116,17 @@
 ## ⏱️ Weekly Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%202%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-92%20hrs%2025%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.76%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 173.7 kB Used in GitHub's Storage 
+> 📦 173.8 kB Used in GitHub's Storage 
  > 
 > 🏆 297 Contributions in the Year 2026
  > 
@@ -159,47 +163,47 @@ Sunday                   692 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 3 mins         █████████░░░░░░░░░░░░░░░░   37.87 % 
-JavaScript               37 mins             ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
-CSS                      28 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-HTML                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-Git Config               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Python                   1 hr 3 mins         ██████████░░░░░░░░░░░░░░░   40.27 % 
+JavaScript               28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+CSS                      27 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+HTML                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+Git Config               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
 
 🔥 Editors: 
-VS Code                  1 hr 53 mins        █████████████████░░░░░░░░   67.03 % 
-Antigravity IDE          55 mins             ████████░░░░░░░░░░░░░░░░░   32.97 % 
+VS Code                  1 hr 43 mins        ████████████████░░░░░░░░░   64.95 % 
+Antigravity IDE          55 mins             █████████░░░░░░░░░░░░░░░░   35.05 % 
 
 🐱‍💻 Projects: 
-RoomDiscorveryApp        1 hr 36 mins        ██████████████░░░░░░░░░░░   57.15 % 
-Crescendo                39 mins             ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
-NetflixGameTestHCL       17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-AI-MultiTest-Agent       14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+RoomDiscorveryApp        1 hr 36 mins        ███████████████░░░░░░░░░░   60.76 % 
+Crescendo                29 mins             █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+NetflixGameTestHCL       17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+AI-MultiTest-Agent       14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
 
 💻 Operating System: 
-Windows                  2 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 55 mins (68.7%)
+⏱ AI Coding Time: 1 hr 55 mins (73.04%)
 
-✍️ 2,411 lines written by AI, 135 lines written by hand (94.7% AI-written)
+✍️ 2,411 lines written by AI, 132 lines written by hand (94.81% AI-written)
 
 🔤 8,154,795 Input Tokens, 65,745 Output Tokens
 
 💵 $21.37 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 41 AI Prompts
+🧠 9 AI Sessions, 23 AI Prompts
 
 GPT                      2,244 lines         ███████████████████████░░   92.57 % 
 Gemini                   180 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.7% of written lines came from AI
-📚 Verbose Prompter — average 2,536 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 16.3% of changed lines were hand-edited
+🤖 AI-Driven — 94.81% of written lines came from AI
+📚 Verbose Prompter — average 4,455 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 16.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -219,7 +223,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 01:18:28 UTC
+ Last Updated on 30/07/2026 01:12:13 UTC
 <!--END_SECTION:waka-->
 
 ## 🎧 Currently Listening
