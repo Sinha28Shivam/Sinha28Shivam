@@ -163,47 +163,47 @@ Sunday                   692 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 3 mins         ██████████░░░░░░░░░░░░░░░   40.27 % 
-JavaScript               28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-CSS                      27 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-HTML                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-Git Config               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+JavaScript               1 hr 26 mins        ██████████░░░░░░░░░░░░░░░   40.14 % 
+CSS                      34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Python                   31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Markdown                 24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+HTML                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
 
 🔥 Editors: 
-VS Code                  1 hr 43 mins        ████████████████░░░░░░░░░   64.95 % 
-Antigravity IDE          55 mins             █████████░░░░░░░░░░░░░░░░   35.05 % 
+Antigravity IDE          2 hrs 12 mins       ███████████████░░░░░░░░░░   61.60 % 
+VS Code                  1 hr 22 mins        ██████████░░░░░░░░░░░░░░░   38.40 % 
 
 🐱‍💻 Projects: 
-RoomDiscorveryApp        1 hr 36 mins        ███████████████░░░░░░░░░░   60.76 % 
-Crescendo                29 mins             █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
-NetflixGameTestHCL       17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-AI-MultiTest-Agent       14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+AI-MultiTest-Agent       1 hr 20 mins        █████████░░░░░░░░░░░░░░░░   37.32 % 
+NetflixGameTestHCL       54 mins             ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
+RoomDiscorveryApp        43 mins             █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+Crescendo                36 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
 
 💻 Operating System: 
-Windows                  2 hrs 38 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 55 mins (73.04%)
+⏱ AI Coding Time: 2 hrs 51 mins (79.69%)
 
-✍️ 2,411 lines written by AI, 132 lines written by hand (94.81% AI-written)
+✍️ 2,249 lines written by AI, 132 lines written by hand (94.46% AI-written)
 
-🔤 8,154,795 Input Tokens, 65,745 Output Tokens
+🔤 2,471,239 Input Tokens, 56,057 Output Tokens
 
-💵 $21.37 Estimated AI Cost This Week
+💵 $7.02 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 23 AI Prompts
+🧠 7 AI Sessions, 33 AI Prompts
 
-GPT                      2,244 lines         ███████████████████████░░   92.57 % 
-Gemini                   180 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+GPT                      2,049 lines         ███████████████████████░░   90.86 % 
+Gemini                   206 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.81% of written lines came from AI
-📚 Verbose Prompter — average 4,455 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 16.04% of changed lines were hand-edited
+🤖 AI-Driven — 94.46% of written lines came from AI
+📝 Concise Prompter — average 494 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 17.03% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -223,7 +223,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 01:12:13 UTC
+ Last Updated on 31/07/2026 01:24:15 UTC
 <!--END_SECTION:waka-->
 
 ## 🎧 Currently Listening
