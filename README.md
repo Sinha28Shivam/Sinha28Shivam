@@ -163,50 +163,51 @@ Sunday                   692 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 7 mins         ███████░░░░░░░░░░░░░░░░░░   28.14 % 
-JavaScript               1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   27.38 % 
-Markdown                 51 mins             █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
-CSS                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-HTML                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Python                   3 hrs 27 mins       █████████████░░░░░░░░░░░░   50.02 % 
+Markdown                 1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
+JavaScript               1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+Git Config               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 
 🔥 Editors: 
-Antigravity IDE          2 hrs 36 mins       ████████████████░░░░░░░░░   65.65 % 
-VS Code                  1 hr 18 mins        ████████░░░░░░░░░░░░░░░░░   32.79 % 
-Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Antigravity IDE          5 hrs 6 mins        ██████████████████░░░░░░░   73.75 % 
+VS Code                  1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
+Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 🐱‍💻 Projects: 
-NetflixGameTestHCL       1 hr 59 mins        █████████████░░░░░░░░░░░░   50.25 % 
-AI-MultiTest-Agent       1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   33.62 % 
-Crescendo                36 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-sinha                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+NetflixGameTestHCL       5 hrs 16 mins       ███████████████████░░░░░░   76.19 % 
+AI-MultiTest-Agent       1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+Crescendo                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+sinha                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Windows                  3 hrs 58 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 44 mins (94.3%)
+⏱ AI Coding Time: 6 hrs 46 mins (97.87%)
 
-✍️ 2,227 lines written by AI, 131 lines written by hand (94.44% AI-written)
+✍️ 1,060 lines written by AI, 203 lines written by hand (83.93% AI-written)
 
-🔤 882,672 Input Tokens, 21,700 Output Tokens
+🔤 856,691 Input Tokens, 29,836 Output Tokens
 
-💵 $2.67 Estimated AI Cost This Week
+💵 $2.39 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 37 AI Prompts
+🧠 16 AI Sessions, 73 AI Prompts
 
-GPT                      2,049 lines         ███████████████████████░░   91.76 % 
-Gemini                   184 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+GPT                      551 lines           █████████████░░░░░░░░░░░░   51.30 % 
+Gemini                   523 lines           ████████████░░░░░░░░░░░░░   48.70 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.44% of written lines came from AI
-📚 Verbose Prompter — average 20,704 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 17.11% of changed lines were hand-edited
+🤖 AI-Driven — 83.93% of written lines came from AI
+📚 Verbose Prompter — average 10,935 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 20.27% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -226,7 +227,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 03/08/2026 01:23:55 UTC
+ Last Updated on 04/08/2026 01:16:06 UTC
 <!--END_SECTION:waka-->
 
 ## 🎧 Currently Listening
