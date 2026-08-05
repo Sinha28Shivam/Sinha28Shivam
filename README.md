@@ -116,9 +116,9 @@
 ## ⏱️ Weekly Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-94%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%2044%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -126,7 +126,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 173.8 kB Used in GitHub's Storage 
+> 📦 173.7 kB Used in GitHub's Storage 
  > 
 > 🏆 297 Contributions in the Year 2026
  > 
@@ -163,51 +163,51 @@ Sunday                   692 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 hrs 27 mins       █████████████░░░░░░░░░░░░   50.02 % 
-Markdown                 1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
-JavaScript               1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Git Config               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Python                   3 hrs 27 mins       ██████████████░░░░░░░░░░░   56.23 % 
+Markdown                 1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
+JavaScript               42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+HTML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 
 🔥 Editors: 
-Antigravity IDE          5 hrs 6 mins        ██████████████████░░░░░░░   73.75 % 
-VS Code                  1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
-Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Antigravity IDE          4 hrs 12 mins       █████████████████░░░░░░░░   68.51 % 
+VS Code                  1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   30.48 % 
+Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 🐱‍💻 Projects: 
-NetflixGameTestHCL       5 hrs 16 mins       ███████████████████░░░░░░   76.19 % 
-AI-MultiTest-Agent       1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-Crescendo                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-sinha                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+NetflixGameTestHCL       5 hrs 16 mins       █████████████████████░░░░   85.66 % 
+Crescendo                31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+AI-MultiTest-Agent       18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+sinha                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-Windows                  6 hrs 55 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 46 mins (97.87%)
+⏱ AI Coding Time: 5 hrs 40 mins (92.27%)
 
-✍️ 1,060 lines written by AI, 203 lines written by hand (83.93% AI-written)
+✍️ 919 lines written by AI, 217 lines written by hand (80.9% AI-written)
 
-🔤 856,691 Input Tokens, 29,836 Output Tokens
+🔤 572,487 Input Tokens, 28,056 Output Tokens
 
-💵 $2.39 Estimated AI Cost This Week
+💵 $1.65 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 73 AI Prompts
+🧠 14 AI Sessions, 61 AI Prompts
 
-GPT                      551 lines           █████████████░░░░░░░░░░░░   51.30 % 
-Gemini                   523 lines           ████████████░░░░░░░░░░░░░   48.70 % 
+Gemini                   518 lines           ██████████████░░░░░░░░░░░   55.58 % 
+GPT                      414 lines           ███████████░░░░░░░░░░░░░░   44.42 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.93% of written lines came from AI
-📚 Verbose Prompter — average 10,935 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 20.27% of changed lines were hand-edited
+🤖 AI-Driven — 80.9% of written lines came from AI
+📚 Verbose Prompter — average 13,013 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 25.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -227,7 +227,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 01:16:06 UTC
+ Last Updated on 05/08/2026 01:16:47 UTC
 <!--END_SECTION:waka-->
 
 ## 🎧 Currently Listening
