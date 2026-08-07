@@ -116,17 +116,13 @@
 ## ⏱️ Weekly Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2048%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%2046%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.76%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 173.7 kB Used in GitHub's Storage 
+> 📦 173.8 kB Used in GitHub's Storage 
  > 
 > 🏆 297 Contributions in the Year 2026
  > 
@@ -136,79 +132,6 @@
  > 
 > 🔑 14 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                476 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-🌆 Daytime                1027 commits        █████████░░░░░░░░░░░░░░░░   35.47 % 
-🌃 Evening                673 commits         ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
-🌙 Night                  719 commits         ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   579 commits         █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Tuesday                  315 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Wednesday                339 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-Thursday                 481 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-Friday                   385 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Saturday                 104 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-Sunday                   692 commits         ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   3 hrs 27 mins       ███████████████░░░░░░░░░░   59.27 % 
-Markdown                 1 hr 31 mins        ███████░░░░░░░░░░░░░░░░░░   26.17 % 
-JavaScript               23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-HTML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-
-🔥 Editors: 
-Antigravity IDE          3 hrs 54 mins       █████████████████░░░░░░░░   66.80 % 
-VS Code                  1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   32.13 % 
-Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-
-🐱‍💻 Projects: 
-NetflixGameTestHCL       5 hrs 16 mins       ███████████████████████░░   90.29 % 
-Crescendo                31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-sinha                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-
-💻 Operating System: 
-Windows                  5 hrs 50 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 5 hrs 21 mins (91.85%)
-
-✍️ 919 lines written by AI, 217 lines written by hand (80.9% AI-written)
-
-🔤 572,487 Input Tokens, 28,056 Output Tokens
-
-💵 $1.65 Estimated AI Cost This Week
-
-🧠 13 AI Sessions, 57 AI Prompts
-
-Gemini                   518 lines           ██████████████░░░░░░░░░░░   55.58 % 
-GPT                      414 lines           ███████████░░░░░░░░░░░░░░   44.42 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 80.9% of written lines came from AI
-📚 Verbose Prompter — average 13,866 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 25.38% of changed lines were hand-edited
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -226,7 +149,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 01:13:53 UTC
+ Last Updated on 07/08/2026 01:57:41 UTC
 <!--END_SECTION:waka-->
 
 ## 🎧 Currently Listening
