@@ -163,47 +163,48 @@ Sunday                   692 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 20 mins       ███████████████░░░░░░░░░░   61.19 % 
-Markdown                 40 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
-JavaScript               23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-HTML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Python                   1 hr 9 mins         ████████░░░░░░░░░░░░░░░░░   33.23 % 
+Markdown                 47 mins             ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
+Other                    37 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+JavaScript               22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+HTML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 
 🔥 Editors: 
-Antigravity IDE          2 hrs 29 mins       ████████████████░░░░░░░░░   65.15 % 
-VS Code                  1 hr 20 mins        █████████░░░░░░░░░░░░░░░░   34.85 % 
+VS Code                  2 hrs 22 mins       █████████████████░░░░░░░░   67.84 % 
+Antigravity IDE          1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   32.16 % 
 
 🐱‍💻 Projects: 
-NetflixGameTestHCL       3 hrs 17 mins       █████████████████████░░░░   85.84 % 
-Crescendo                31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Xbox_POC                 1 hr 43 mins        ████████████░░░░░░░░░░░░░   49.65 % 
+Sources                  1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   29.39 % 
+Crescendo                28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+xbox                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Xbox_Android_Poc         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-Windows                  3 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 20 mins (87.3%)
+⏱ AI Coding Time: 2 hrs 52 mins (82.52%)
 
-✍️ 745 lines written by AI, 217 lines written by hand (77.44% AI-written)
+✍️ 86 lines written by AI, 594 lines written by hand (12.65% AI-written)
 
-🔤 288,213 Input Tokens, 27,838 Output Tokens
+🔤 738,833 Input Tokens, 110,232 Output Tokens
 
-💵 $0.93 Estimated AI Cost This Week
+💵 $12.46 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 39 AI Prompts
+🧠 4 AI Sessions, 23 AI Prompts
 
-GPT                      414 lines           ██████████████░░░░░░░░░░░   54.98 % 
-Gemini                   339 lines           ███████████░░░░░░░░░░░░░░   45.02 % 
+Gemini                   99 lines            █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 77.44% of written lines came from AI
-📄 Detailed Prompter — average 976 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 29.63% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 12.65% of written lines came from AI
+📝 Concise Prompter — average 117 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 86.34% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -223,7 +224,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 00:44:33 UTC
+ Last Updated on 11/08/2026 00:44:05 UTC
 <!--END_SECTION:waka-->
 
 ## 🎧 Currently Listening
