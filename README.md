@@ -116,9 +116,9 @@
 ## ⏱️ Weekly Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-100%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -163,47 +163,47 @@ Sunday                   692 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 9 mins         ████████░░░░░░░░░░░░░░░░░   33.23 % 
-Markdown                 47 mins             ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
-Other                    37 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-JavaScript               22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-HTML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Python                   2 hrs 43 mins       █████████████░░░░░░░░░░░░   53.61 % 
+Markdown                 47 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Other                    37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+PowerShell               21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+C++                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 22 mins       █████████████████░░░░░░░░   67.84 % 
-Antigravity IDE          1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   32.16 % 
+VS Code                  3 hrs 58 mins       ███████████████████░░░░░░   77.98 % 
+Antigravity IDE          1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
 
 🐱‍💻 Projects: 
-Xbox_POC                 1 hr 43 mins        ████████████░░░░░░░░░░░░░   49.65 % 
-Sources                  1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   29.39 % 
-Crescendo                28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-xbox                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-Xbox_Android_Poc         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Xbox_POC                 1 hr 43 mins        ████████░░░░░░░░░░░░░░░░░   34.00 % 
+xboxArudino              1 hr 28 mins        ███████░░░░░░░░░░░░░░░░░░   29.09 % 
+Sources                  1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+XBOXAutomationAgent      36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+xbox                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
 
 💻 Operating System: 
-Windows                  3 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 52 mins (82.52%)
+⏱ AI Coding Time: 4 hrs 26 mins (87.01%)
 
-✍️ 86 lines written by AI, 594 lines written by hand (12.65% AI-written)
+✍️ 86 lines written by AI, 624 lines written by hand (12.11% AI-written)
 
-🔤 738,833 Input Tokens, 110,232 Output Tokens
+🔤 1,823,202 Input Tokens, 199,329 Output Tokens
 
 💵 $12.46 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 23 AI Prompts
+🧠 6 AI Sessions, 26 AI Prompts
 
 Gemini                   99 lines            █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 12.65% of written lines came from AI
-📝 Concise Prompter — average 117 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+🧑‍💻 Mostly Hands-On — 12.11% of written lines came from AI
+📝 Concise Prompter — average 140 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 86.34% of changed lines were hand-edited
 ```
 
@@ -224,7 +224,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 00:44:05 UTC
+ Last Updated on 12/08/2026 00:50:22 UTC
 <!--END_SECTION:waka-->
 
 ## 🎧 Currently Listening
