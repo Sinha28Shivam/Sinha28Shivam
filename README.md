@@ -116,9 +116,9 @@
 ## ⏱️ Weekly Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-112%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-116%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -163,47 +163,47 @@ Sunday                   692 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   9 hrs 19 mins       █████████████░░░░░░░░░░░░   52.87 % 
-Markdown                 3 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-YAML                     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-C++                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-Text                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Python                   7 hrs 44 mins       ████████████░░░░░░░░░░░░░   49.86 % 
+Markdown                 3 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
+YAML                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+C++                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Text                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 17 mins      ██████████████████████░░░   86.72 % 
-Antigravity IDE          2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+VS Code                  13 hrs 11 mins      █████████████████████░░░░   84.94 % 
+Antigravity IDE          2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
 
 🐱‍💻 Projects: 
-xboxArudino              7 hrs 26 mins       ███████████░░░░░░░░░░░░░░   42.24 % 
-xCloud-Android-WORKING   5 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   30.46 % 
-xboxAndroidArduino       3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-XBOXAutomationAgent      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-informatio               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+xboxArudino              5 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   38.38 % 
+xCloud-Android-WORKING   5 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   34.56 % 
+xboxAndroidArduino       3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
+informatio               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+xCloud-Android-Arduino   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 
 💻 Operating System: 
-Windows                  17 hrs 37 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 41 mins (89.08%)
+⏱ AI Coding Time: 14 hrs 6 mins (90.82%)
 
-✍️ 181 lines written by AI, 1,875 lines written by hand (8.8% AI-written)
+✍️ 181 lines written by AI, 1,816 lines written by hand (9.06% AI-written)
 
-🔤 19,717,119 Input Tokens, 755,400 Output Tokens
+🔤 18,632,750 Input Tokens, 666,303 Output Tokens
 
 💵 $20.37 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 43 AI Prompts
+🧠 14 AI Sessions, 40 AI Prompts
 
 Gemini                   186 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 8.8% of written lines came from AI
-📝 Concise Prompter — average 470 characters per prompt
+🧑‍💻 Mostly Hands-On — 9.06% of written lines came from AI
+📝 Concise Prompter — average 482 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 91.37% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 91.13% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -223,7 +223,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 00:29:09 UTC
+ Last Updated on 19/08/2026 00:28:55 UTC
 <!--END_SECTION:waka-->
 
 ## 🎧 Currently Listening
