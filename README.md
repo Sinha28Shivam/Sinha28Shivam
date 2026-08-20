@@ -126,9 +126,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 176.0 kB Used in GitHub's Storage 
+> 📦 176.2 kB Used in GitHub's Storage 
  > 
-> 🏆 311 Contributions in the Year 2026
+> 🏆 313 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -139,21 +139,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                476 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-🌆 Daytime                1037 commits        █████████░░░░░░░░░░░░░░░░   35.70 % 
-🌃 Evening                673 commits         ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
-🌙 Night                  719 commits         ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
+🌞 Morning                476 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+🌆 Daytime                1051 commits        █████████░░░░░░░░░░░░░░░░   36.01 % 
+🌃 Evening                673 commits         ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
+🌙 Night                  719 commits         ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   579 commits         █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-Tuesday                  315 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-Wednesday                347 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Thursday                 481 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Friday                   387 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Saturday                 104 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-Sunday                   692 commits         ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
+Monday                   579 commits         █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+Tuesday                  315 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Wednesday                361 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Thursday                 481 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Friday                   387 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Saturday                 104 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Sunday                   692 commits         ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
 ```
 
 
@@ -163,47 +163,47 @@ Sunday                   692 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   7 hrs 44 mins       ████████████░░░░░░░░░░░░░   49.86 % 
-Markdown                 3 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
-YAML                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-C++                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-Text                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Python                   8 hrs 30 mins       ██████████████░░░░░░░░░░░   55.94 % 
+Markdown                 2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+YAML                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+C++                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Text                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 11 mins      █████████████████████░░░░   84.94 % 
-Antigravity IDE          2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+VS Code                  12 hrs 36 mins      █████████████████████░░░░   82.90 % 
+Antigravity IDE          2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
 
 🐱‍💻 Projects: 
-xboxArudino              5 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   38.38 % 
-xCloud-Android-WORKING   5 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   34.56 % 
-xboxAndroidArduino       3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
-informatio               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-xCloud-Android-Arduino   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+xCloud-Android-WORKING   8 hrs 23 mins       ██████████████░░░░░░░░░░░   55.20 % 
+xboxAndroidArduino       3 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+xboxArudino              2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+informatio               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+xCloud-Android-Arduino   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 💻 Operating System: 
-Windows                  15 hrs 32 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 6 mins (90.82%)
+⏱ AI Coding Time: 14 hrs 4 mins (92.61%)
 
-✍️ 181 lines written by AI, 1,816 lines written by hand (9.06% AI-written)
+✍️ 185 lines written by AI, 1,991 lines written by hand (8.5% AI-written)
 
-🔤 18,632,750 Input Tokens, 666,303 Output Tokens
+🔤 14,812,343 Input Tokens, 663,313 Output Tokens
 
-💵 $20.37 Estimated AI Cost This Week
+💵 $40.91 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 40 AI Prompts
+🧠 14 AI Sessions, 44 AI Prompts
 
-Gemini                   186 lines           █████████████████████████   100.00 % 
+Gemini                   190 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 9.06% of written lines came from AI
-📝 Concise Prompter — average 482 characters per prompt
+🧑‍💻 Mostly Hands-On — 8.5% of written lines came from AI
+📄 Detailed Prompter — average 661 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 91.13% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 91.86% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -223,7 +223,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 00:28:55 UTC
+ Last Updated on 20/08/2026 00:29:31 UTC
 <!--END_SECTION:waka-->
 
 ## 🎧 Currently Listening
