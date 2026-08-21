@@ -116,9 +116,9 @@
 ## ⏱️ Weekly Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-116%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-118%20hrs%2048%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -163,31 +163,31 @@ Sunday                   692 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   8 hrs 30 mins       ██████████████░░░░░░░░░░░   55.94 % 
-Markdown                 2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-YAML                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-C++                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-Text                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Python                   8 hrs 30 mins       ██████████████░░░░░░░░░░░   55.68 % 
+Markdown                 2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+YAML                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+C++                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Other                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 36 mins      █████████████████████░░░░   82.90 % 
-Antigravity IDE          2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+VS Code                  12 hrs 36 mins      █████████████████████░░░░   82.51 % 
+Antigravity IDE          2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
 
 🐱‍💻 Projects: 
-xCloud-Android-WORKING   8 hrs 23 mins       ██████████████░░░░░░░░░░░   55.20 % 
-xboxAndroidArduino       3 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
-xboxArudino              2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-informatio               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-xCloud-Android-Arduino   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+xCloud-Android-WORKING   8 hrs 27 mins       ██████████████░░░░░░░░░░░   55.41 % 
+xboxAndroidArduino       3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+xboxArudino              2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+informatio               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+xCloud-Android-Arduino   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 💻 Operating System: 
-Windows                  15 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 4 mins (92.61%)
+⏱ AI Coding Time: 14 hrs 8 mins (92.64%)
 
 ✍️ 185 lines written by AI, 1,991 lines written by hand (8.5% AI-written)
 
@@ -195,13 +195,13 @@ Windows                  15 hrs 11 mins      ███████████�
 
 💵 $40.91 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 44 AI Prompts
+🧠 15 AI Sessions, 46 AI Prompts
 
 Gemini                   190 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 8.5% of written lines came from AI
-📄 Detailed Prompter — average 661 characters per prompt
+📄 Detailed Prompter — average 636 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 91.86% of changed lines were hand-edited
 ```
@@ -223,7 +223,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2026 00:29:31 UTC
+ Last Updated on 21/08/2026 00:31:38 UTC
 <!--END_SECTION:waka-->
 
 ## 🎧 Currently Listening
