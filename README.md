@@ -118,7 +118,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-118%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-118%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -163,47 +163,47 @@ Sunday                   692 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   8 hrs 30 mins       ██████████████░░░░░░░░░░░   55.68 % 
-Markdown                 2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-YAML                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-C++                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-Other                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Python                   6 hrs 45 mins       ████████████████░░░░░░░░░   62.63 % 
+Markdown                 1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+YAML                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+Other                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Batchfile                21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 36 mins      █████████████████████░░░░   82.51 % 
-Antigravity IDE          2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+VS Code                  8 hrs 6 mins        ███████████████████░░░░░░   75.23 % 
+Antigravity IDE          2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
 
 🐱‍💻 Projects: 
-xCloud-Android-WORKING   8 hrs 27 mins       ██████████████░░░░░░░░░░░   55.41 % 
-xboxAndroidArduino       3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
-xboxArudino              2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-informatio               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-xCloud-Android-Arduino   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+xCloud-Android-WORKING   8 hrs 27 mins       ████████████████████░░░░░   78.48 % 
+xboxAndroidArduino       1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+informatio               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+xCloud-Android-Arduino   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+xboxArudino              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  15 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 8 mins (92.64%)
+⏱ AI Coding Time: 9 hrs 53 mins (91.68%)
 
-✍️ 185 lines written by AI, 1,991 lines written by hand (8.5% AI-written)
+✍️ 185 lines written by AI, 1,130 lines written by hand (14.07% AI-written)
 
-🔤 14,812,343 Input Tokens, 663,313 Output Tokens
+🔤 11,238,389 Input Tokens, 396,622 Output Tokens
 
 💵 $40.91 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 46 AI Prompts
+🧠 10 AI Sessions, 42 AI Prompts
 
 Gemini                   190 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 8.5% of written lines came from AI
-📄 Detailed Prompter — average 636 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 91.86% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 14.07% of written lines came from AI
+📄 Detailed Prompter — average 673 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 87.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -223,7 +223,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 00:31:38 UTC
+ Last Updated on 22/08/2026 00:29:37 UTC
 <!--END_SECTION:waka-->
 
 ## 🎧 Currently Listening
