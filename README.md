@@ -163,47 +163,43 @@ Sunday                   692 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   6 hrs 45 mins       ████████████████░░░░░░░░░   62.63 % 
-Markdown                 1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-YAML                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-Other                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-Batchfile                21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Python                   5 hrs 22 mins       ███████████████████░░░░░░   77.57 % 
+YAML                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+Batchfile                11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+HTML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 6 mins        ███████████████████░░░░░░   75.23 % 
-Antigravity IDE          2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
+VS Code                  5 hrs 19 mins       ███████████████████░░░░░░   76.91 % 
+Antigravity IDE          1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
 
 🐱‍💻 Projects: 
-xCloud-Android-WORKING   8 hrs 27 mins       ████████████████████░░░░░   78.48 % 
-xboxAndroidArduino       1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-informatio               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-xCloud-Android-Arduino   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-xboxArudino              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+xCloud-Android-WORKING   6 hrs 55 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 hrs 47 mins      █████████████████████████   100.00 % 
+Windows                  6 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 53 mins (91.68%)
+⏱ AI Coding Time: 6 hrs 7 mins (88.49%)
 
-✍️ 185 lines written by AI, 1,130 lines written by hand (14.07% AI-written)
+✍️ 185 lines written by AI, 1,027 lines written by hand (15.26% AI-written)
 
-🔤 11,238,389 Input Tokens, 396,622 Output Tokens
+🔤 6,859,165 Input Tokens, 223,725 Output Tokens
 
 💵 $40.91 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 42 AI Prompts
+🧠 5 AI Sessions, 26 AI Prompts
 
 Gemini                   190 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 14.07% of written lines came from AI
-📄 Detailed Prompter — average 673 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 87.08% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 15.26% of written lines came from AI
+📄 Detailed Prompter — average 753 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 86.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -223,7 +219,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 00:29:37 UTC
+ Last Updated on 23/08/2026 00:31:38 UTC
 <!--END_SECTION:waka-->
 
 ## 🎧 Currently Listening
