@@ -116,9 +116,9 @@
 ## ⏱️ Weekly Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-118%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-120%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -139,21 +139,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                476 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-🌆 Daytime                1065 commits        █████████░░░░░░░░░░░░░░░░   36.30 % 
-🌃 Evening                674 commits         ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
-🌙 Night                  719 commits         ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
+🌞 Morning                486 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+🌆 Daytime                1081 commits        █████████░░░░░░░░░░░░░░░░   36.51 % 
+🌃 Evening                675 commits         ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
+🌙 Night                  719 commits         ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   581 commits         █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
-Tuesday                  315 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Wednesday                374 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Thursday                 481 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Friday                   387 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Saturday                 104 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-Sunday                   692 commits         ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
+Monday                   583 commits         █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+Tuesday                  326 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Wednesday                388 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Thursday                 481 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Friday                   387 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+Saturday                 104 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Sunday                   692 commits         ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
 ```
 
 
@@ -163,44 +163,45 @@ Sunday                   692 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 hrs 49 mins       █████████████████████░░░░   84.88 % 
-YAML                     34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Python                   4 hrs               ████████████████████░░░░░   80.35 % 
+YAML                     34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Other                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Image (png)              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 33 mins       ██████████████░░░░░░░░░░░   56.94 % 
-CLI                      1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
-Antigravity IDE          53 mins             █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
-Cline                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+VS Code                  2 hrs 33 mins       █████████████░░░░░░░░░░░░   51.54 % 
+CLI                      1 hr 28 mins        ███████░░░░░░░░░░░░░░░░░░   29.62 % 
+Antigravity IDE          55 mins             █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+Cline                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🐱‍💻 Projects: 
-xCloud-Android-WORKING   4 hrs 28 mins       █████████████████████████   99.36 % 
-NetflixGameTestHCL       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+xCloud-Android-WORKING   4 hrs 57 mins       █████████████████████████   99.42 % 
+NetflixGameTestHCL       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 💻 Operating System: 
-Windows                  4 hrs 30 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 12 mins (93.36%)
+⏱ AI Coding Time: 4 hrs 40 mins (93.99%)
 
 ✍️ 6 lines written by AI, 633 lines written by hand (0.94% AI-written)
 
-🔤 25,067,426 Input Tokens, 206,152 Output Tokens
+🔤 27,478,362 Input Tokens, 245,682 Output Tokens
 
-💵 $91.35 Estimated AI Cost This Week
+💵 $99.26 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 39 AI Prompts
+🧠 8 AI Sessions, 47 AI Prompts
 
 Gemini                   6 lines             █████████████████████████   100.00 % 
 Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.94% of written lines came from AI
-📄 Detailed Prompter — average 1,243 characters per prompt
+📄 Detailed Prompter — average 1,220 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🔍 Hands-On Reviewer — 99.14% of changed lines were hand-edited
 ```
@@ -222,7 +223,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2026 00:29:53 UTC
+ Last Updated on 26/08/2026 00:31:48 UTC
 <!--END_SECTION:waka-->
 
 ## 🎧 Currently Listening
