@@ -163,48 +163,46 @@ Sunday                   692 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 29 mins        ████████████░░░░░░░░░░░░░   50.00 % 
-YAML                     45 mins             ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
-Other                    28 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Python                   1 hr 11 mins        ████████████░░░░░░░░░░░░░   47.57 % 
+YAML                     45 mins             ████████░░░░░░░░░░░░░░░░░   30.39 % 
+Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 
 🔥 Editors: 
-Codex Vscode             54 mins             ████████░░░░░░░░░░░░░░░░░   30.84 % 
-VS Code                  52 mins             ███████░░░░░░░░░░░░░░░░░░   29.36 % 
-Antigravity IDE          44 mins             ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
-CLI                      25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Codex Vscode             54 mins             █████████░░░░░░░░░░░░░░░░   36.70 % 
+VS Code                  52 mins             █████████░░░░░░░░░░░░░░░░   34.93 % 
+Antigravity IDE          42 mins             ███████░░░░░░░░░░░░░░░░░░   28.37 % 
 
 🐱‍💻 Projects: 
-xboxArudino              1 hr 56 mins        ████████████████░░░░░░░░░   65.63 % 
-xCloud-Android-WORKING   52 mins             ███████░░░░░░░░░░░░░░░░░░   29.54 % 
-config                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+xboxArudino              1 hr 56 mins        ████████████████████░░░░░   78.09 % 
+xCloud-Android-WORKING   24 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+config                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 
 💻 Operating System: 
-Windows                  2 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 14 mins (75.56%)
+⏱ AI Coding Time: 1 hr 46 mins (70.92%)
 
 ✍️ 97 lines written by AI, 4 lines written by hand (96.04% AI-written)
 
-🔤 3,759,493 Input Tokens, 71,094 Output Tokens
+🔤 1,348,557 Input Tokens, 31,564 Output Tokens
 
-💵 $13.16 Estimated AI Cost This Week
+💵 $5.25 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 36 AI Prompts
+🧠 3 AI Sessions, 28 AI Prompts
 
 GPT                      73 lines            ███████████████████░░░░░░   75.26 % 
 Gemini                   24 lines            ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
-Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 96.04% of written lines came from AI
-📝 Concise Prompter — average 346 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📝 Concise Prompter — average 128 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 4.9% of changed lines were hand-edited
 ```
 
@@ -225,7 +223,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2026 02:12:04 UTC
+ Last Updated on 02/09/2026 01:35:07 UTC
 <!--END_SECTION:waka-->
 
 ## 🎧 Currently Listening
