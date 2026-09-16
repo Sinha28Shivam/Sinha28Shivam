@@ -116,9 +116,9 @@
 ## ⏱️ Weekly Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-167%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-167%20hrs%2018%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-162%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-162%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -163,48 +163,43 @@ Sunday                   692 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   31 mins             ████████░░░░░░░░░░░░░░░░░   32.36 % 
-Other                    26 mins             ███████░░░░░░░░░░░░░░░░░░   26.74 % 
-Markdown                 23 mins             ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
-Bash                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-HTML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Markdown                 23 mins             █████████████████░░░░░░░░   67.50 % 
+Python                   6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+Other                    5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
 
 🔥 Editors: 
-VS Code                  28 mins             ███████░░░░░░░░░░░░░░░░░░   28.69 % 
-Antigravity IDE          24 mins             ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
-CLI                      23 mins             ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
-Codex Vscode             21 mins             ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
+VS Code                  18 mins             █████████████░░░░░░░░░░░░   52.83 % 
+Codex Vscode             13 mins             █████████░░░░░░░░░░░░░░░░   37.82 % 
+Antigravity IDE          3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
 
 🐱‍💻 Projects: 
-xboxArudino              1 hr 13 mins        ███████████████████░░░░░░   74.52 % 
-Xbox-Agentic-Automation  19 mins             █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-AI-MultiTest-Agent       5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+xboxArudino              30 mins             █████████████████████░░░░   85.19 % 
+AI-MultiTest-Agent       5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
 
 💻 Operating System: 
-Windows                  1 hr 38 mins        █████████████████████████   100.00 % 
+Windows                  35 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 31 mins (93.32%)
+⏱ AI Coding Time: 28 mins (81.71%)
 
-✍️ 44 lines written by AI, 3 lines written by hand (93.62% AI-written)
+✍️ 44 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 6,761,005 Input Tokens, 143,671 Output Tokens
+🔤 452,229 Input Tokens, 16,097 Output Tokens
 
-💵 $23.16 Estimated AI Cost This Week
+💵 $1.75 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 44 AI Prompts
+🧠 5 AI Sessions, 10 AI Prompts
 
 GPT                      44 lines            █████████████████████████   100.00 % 
-Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.62% of written lines came from AI
-📄 Detailed Prompter — average 825 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 6.38% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 319 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -224,7 +219,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 02:02:34 UTC
+ Last Updated on 16/09/2026 01:52:41 UTC
 <!--END_SECTION:waka-->
 
 ## 🎧 Currently Listening
