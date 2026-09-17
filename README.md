@@ -163,43 +163,48 @@ Sunday                   692 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 23 mins             █████████████████░░░░░░░░   67.50 % 
-Python                   6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-Other                    5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+PowerShell               1 hr 17 mins        █████████░░░░░░░░░░░░░░░░   36.48 % 
+Python                   1 hr 15 mins        █████████░░░░░░░░░░░░░░░░   35.38 % 
+Markdown                 30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+C++                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████░░░░░░░░░░░░   52.83 % 
-Codex Vscode             13 mins             █████████░░░░░░░░░░░░░░░░   37.82 % 
-Antigravity IDE          3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+CLI                      2 hrs 38 mins       ███████████████████░░░░░░   74.52 % 
+VS Code                  29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Codex Vscode             24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
 
 🐱‍💻 Projects: 
-xboxArudino              30 mins             █████████████████████░░░░   85.19 % 
-AI-MultiTest-Agent       5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Xbox-Automation-Python   1 hr 32 mins        ███████████░░░░░░░░░░░░░░   43.37 % 
+Xbox-Agentic-Automation  1 hr 17 mins        █████████░░░░░░░░░░░░░░░░   36.23 % 
+xboxArudino              38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+AI-MultiTest-Agent       5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 💻 Operating System: 
-Windows                  35 mins             █████████████████████████   100.00 % 
+Windows                  3 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 mins (81.71%)
+⏱ AI Coding Time: 3 hrs 26 mins (96.96%)
 
 ✍️ 44 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 452,229 Input Tokens, 16,097 Output Tokens
+🔤 52,072,499 Input Tokens, 323,360 Output Tokens
 
-💵 $1.75 Estimated AI Cost This Week
+💵 $174.72 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 10 AI Prompts
+🧠 7 AI Sessions, 139 AI Prompts
 
 GPT                      44 lines            █████████████████████████   100.00 % 
+Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 319 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+📄 Detailed Prompter — average 1,240 characters per prompt
+🔁 Iterative Prompter — average 20 prompts per session
+🚀 High AI Trust — 2.22% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -219,7 +224,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2026 01:52:41 UTC
+ Last Updated on 17/09/2026 01:56:44 UTC
 <!--END_SECTION:waka-->
 
 ## 🎧 Currently Listening
