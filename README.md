@@ -116,9 +116,9 @@
 ## ⏱️ Weekly Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-167%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-170%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-162%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-165%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -163,48 +163,49 @@ Sunday                   692 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-PowerShell               1 hr 17 mins        █████████░░░░░░░░░░░░░░░░   36.48 % 
-Python                   1 hr 15 mins        █████████░░░░░░░░░░░░░░░░   35.38 % 
-Markdown                 30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-C++                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Python                   3 hrs 22 mins       ██████████████░░░░░░░░░░░   57.86 % 
+PowerShell               1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
+Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 
 🔥 Editors: 
-CLI                      2 hrs 38 mins       ███████████████████░░░░░░   74.52 % 
-VS Code                  29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Codex Vscode             24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+CLI                      4 hrs 36 mins       ████████████████████░░░░░   79.10 % 
+VS Code                  55 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+Codex Vscode             17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 
 🐱‍💻 Projects: 
-Xbox-Automation-Python   1 hr 32 mins        ███████████░░░░░░░░░░░░░░   43.37 % 
-Xbox-Agentic-Automation  1 hr 17 mins        █████████░░░░░░░░░░░░░░░░   36.23 % 
-xboxArudino              38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-AI-MultiTest-Agent       5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Xbox-Agentic-Automation  3 hrs 49 mins       ████████████████░░░░░░░░░   65.60 % 
+Xbox-Automation-Python   1 hr 32 mins        ███████░░░░░░░░░░░░░░░░░░   26.47 % 
+xboxArudino              17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+AI-MultiTest-Agent       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+usb-uirt-cli-main        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 💻 Operating System: 
-Windows                  3 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 26 mins (96.96%)
+⏱ AI Coding Time: 5 hrs 37 mins (96.54%)
 
-✍️ 44 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 52,072,499 Input Tokens, 323,360 Output Tokens
+🔤 112,650,036 Input Tokens, 501,604 Output Tokens
 
-💵 $174.72 Estimated AI Cost This Week
+💵 $371.98 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 139 AI Prompts
+🧠 9 AI Sessions, 267 AI Prompts
 
-GPT                      44 lines            █████████████████████████   100.00 % 
 Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,240 characters per prompt
-🔁 Iterative Prompter — average 20 prompts per session
-🚀 High AI Trust — 2.22% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 1,502 characters per prompt
+🔁 Iterative Prompter — average 30 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -224,7 +225,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2026 01:56:44 UTC
+ Last Updated on 18/09/2026 01:44:05 UTC
 <!--END_SECTION:waka-->
 
 ## 🎧 Currently Listening
