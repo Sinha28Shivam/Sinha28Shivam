@@ -116,23 +116,23 @@
 ## ⏱️ Weekly Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-170%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-165%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-167%20hrs%2042%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.85%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 176.7 kB Used in GitHub's Storage 
+> 📦 199.0 kB Used in GitHub's Storage 
  > 
-> 🏆 353 Contributions in the Year 2026
+> 🏆 354 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 43 Public Repositories 
+> 📜 44 Public Repositories 
  > 
 > 🔑 14 Private Repositories 
  > 
@@ -163,59 +163,59 @@ Sunday                   692 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 hrs 22 mins       ██████████████░░░░░░░░░░░   57.86 % 
-PowerShell               1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Python                   5 hrs 35 mins       ████████████░░░░░░░░░░░░░   48.68 % 
+YAML                     2 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
+PowerShell               1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+Markdown                 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Git Config               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 
 🔥 Editors: 
-CLI                      4 hrs 36 mins       ████████████████████░░░░░   79.10 % 
-VS Code                  55 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Codex Vscode             17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+CLI                      5 hrs 51 mins       █████████████░░░░░░░░░░░░   50.91 % 
+Codex Vscode             3 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   30.09 % 
+VS Code                  2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
 
 🐱‍💻 Projects: 
-Xbox-Agentic-Automation  3 hrs 49 mins       ████████████████░░░░░░░░░   65.60 % 
-Xbox-Automation-Python   1 hr 32 mins        ███████░░░░░░░░░░░░░░░░░░   26.47 % 
-xboxArudino              17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-AI-MultiTest-Agent       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-usb-uirt-cli-main        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Xbox-Agentic-Automation  9 hrs 35 mins       █████████████████████░░░░   83.48 % 
+Xbox-Automation-Python   1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+xboxArudino              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+AI-MultiTest-Agent       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+usb-uirt-cli-main        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 💻 Operating System: 
-Windows                  5 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 37 mins (96.54%)
+⏱ AI Coding Time: 10 hrs 34 mins (91.95%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 5,704 lines written by AI, 6 lines written by hand (99.89% AI-written)
 
-🔤 112,650,036 Input Tokens, 501,604 Output Tokens
+🔤 142,881,880 Input Tokens, 901,135 Output Tokens
 
-💵 $371.98 Estimated AI Cost This Week
+💵 $480.09 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 267 AI Prompts
+🧠 10 AI Sessions, 393 AI Prompts
 
+GPT                      5,754 lines         █████████████████████████   100.00 % 
 Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 1,502 characters per prompt
-🔁 Iterative Prompter — average 30 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🤖 AI-Driven — 99.89% of written lines came from AI
+📄 Detailed Prompter — average 1,463 characters per prompt
+🔁 Iterative Prompter — average 39 prompts per session
+🚀 High AI Trust — 1.62% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               17 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Python                   12 repos            ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-HTML                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-TypeScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+JavaScript               17 repos            ████████░░░░░░░░░░░░░░░░░   32.69 % 
+Python                   13 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+HTML                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+TypeScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 
@@ -225,7 +225,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2026 01:44:05 UTC
+ Last Updated on 19/09/2026 01:48:41 UTC
 <!--END_SECTION:waka-->
 
 ## 🎧 Currently Listening
