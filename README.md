@@ -163,49 +163,50 @@ Sunday                   692 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   5 hrs 35 mins       ████████████░░░░░░░░░░░░░   48.68 % 
-YAML                     2 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-PowerShell               1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Markdown                 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-Git Config               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Python                   6 hrs 58 mins       ████████████░░░░░░░░░░░░░   48.39 % 
+YAML                     2 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+PowerShell               1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Markdown                 1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Other                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
 
 🔥 Editors: 
-CLI                      5 hrs 51 mins       █████████████░░░░░░░░░░░░   50.91 % 
-Codex Vscode             3 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   30.09 % 
-VS Code                  2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+CLI                      5 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   40.61 % 
+VS Code                  4 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   32.65 % 
+Codex Vscode             3 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   26.74 % 
 
 🐱‍💻 Projects: 
-Xbox-Agentic-Automation  9 hrs 35 mins       █████████████████████░░░░   83.48 % 
-Xbox-Automation-Python   1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-xboxArudino              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-AI-MultiTest-Agent       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-usb-uirt-cli-main        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Xbox-Agentic-Automation  11 hrs 30 mins      ████████████████████░░░░░   79.88 % 
+Xbox-Automation-Python   1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+xbox_multiplayer_agentic 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Unknown Project          15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+xboxArudino              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 💻 Operating System: 
-Windows                  11 hrs 29 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 34 mins (91.95%)
+⏱ AI Coding Time: 13 hrs 11 mins (91.49%)
 
-✍️ 5,704 lines written by AI, 6 lines written by hand (99.89% AI-written)
+✍️ 6,304 lines written by AI, 10 lines written by hand (99.84% AI-written)
 
-🔤 142,881,880 Input Tokens, 901,135 Output Tokens
+🔤 143,318,857 Input Tokens, 915,798 Output Tokens
 
-💵 $480.09 Estimated AI Cost This Week
+💵 $482.26 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 393 AI Prompts
+🧠 11 AI Sessions, 412 AI Prompts
 
-GPT                      5,754 lines         █████████████████████████   100.00 % 
+GPT                      5,910 lines         ███████████████████████░░   93.01 % 
+Github-Copilot           444 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
 Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.89% of written lines came from AI
-📄 Detailed Prompter — average 1,463 characters per prompt
-🔁 Iterative Prompter — average 39 prompts per session
-🚀 High AI Trust — 1.62% of changed lines were hand-edited
+🤖 AI-Driven — 99.84% of written lines came from AI
+📄 Detailed Prompter — average 1,442 characters per prompt
+🔁 Iterative Prompter — average 37 prompts per session
+🚀 High AI Trust — 1.53% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -225,7 +226,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2026 01:51:34 UTC
+ Last Updated on 22/09/2026 02:01:51 UTC
 <!--END_SECTION:waka-->
 
 ## 🎧 Currently Listening
