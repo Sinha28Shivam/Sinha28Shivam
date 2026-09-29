@@ -163,52 +163,52 @@ Sunday                   692 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   6 hrs 46 mins       ███████████░░░░░░░░░░░░░░   42.35 % 
-YAML                     2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Markdown                 2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Other                    1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-HTML                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Python                   5 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   41.71 % 
+YAML                     1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Markdown                 1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+HTML                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Other                    1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 7 mins       ██████████████████████░░░   88.36 % 
-Codex Vscode             1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-CLI                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-Antigravity Desktop      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+VS Code                  11 hrs 34 mins      ██████████████████████░░░   88.87 % 
+Codex Vscode             1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+CLI                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Antigravity Desktop      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🐱‍💻 Projects: 
-xboxArudino              8 hrs 3 mins        █████████████░░░░░░░░░░░░   50.42 % 
-Xbox-Agentic-Automation  2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-xbox-multiplayer         2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-xbox_multiplayer_agentic 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-agents                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+xboxArudino              8 hrs 6 mins        ████████████████░░░░░░░░░   62.21 % 
+xbox-multiplayer         2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+agents                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Xbox-Agentic-Automation  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+agentic                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 💻 Operating System: 
-Windows                  15 hrs 59 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 50 mins (74.03%)
+⏱ AI Coding Time: 9 hrs 12 mins (70.66%)
 
-✍️ 4,014 lines written by AI, 832 lines written by hand (82.83% AI-written)
+✍️ 3,414 lines written by AI, 830 lines written by hand (80.44% AI-written)
 
-🔤 4,601,900 Input Tokens, 154,718 Output Tokens
+🔤 4,122,365 Input Tokens, 137,646 Output Tokens
 
-💵 $18.88 Estimated AI Cost This Week
+💵 $16.54 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 127 AI Prompts
+🧠 9 AI Sessions, 107 AI Prompts
 
-Github-Copilot           2,998 lines         ███████████████████░░░░░░   74.10 % 
-GPT                      1,048 lines         ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
+Github-Copilot           2,554 lines         ███████████████████░░░░░░   74.11 % 
+GPT                      892 lines           ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
 Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 82.83% of written lines came from AI
-📚 Verbose Prompter — average 2,670 characters per prompt
+🤖 AI-Driven — 80.44% of written lines came from AI
+📚 Verbose Prompter — average 2,987 characters per prompt
 🔁 Iterative Prompter — average 12 prompts per session
-🔍 Hands-On Reviewer — 50.74% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 54.72% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -228,7 +228,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2026 02:07:45 UTC
+ Last Updated on 29/09/2026 02:54:12 UTC
 <!--END_SECTION:waka-->
 
 ## 🎧 Currently Listening
