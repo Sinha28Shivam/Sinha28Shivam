@@ -116,7 +116,7 @@
 ## ⏱️ Weekly Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-192%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%203%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-184%20hrs%2027%20mins-blue?style=flat)
 
@@ -126,7 +126,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 199.3 kB Used in GitHub's Storage 
+> 📦 199.2 kB Used in GitHub's Storage 
  > 
 > 🏆 369 Contributions in the Year 2026
  > 
@@ -163,46 +163,48 @@ Sunday                   692 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
-HTML                     1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
-Markdown                 42 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-YAML                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Other                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Python                   1 hr 27 mins        ████████████░░░░░░░░░░░░░   46.81 % 
+Markdown                 56 mins             ████████░░░░░░░░░░░░░░░░░   30.48 % 
+Bash                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Image (jpeg)             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 31 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 16 mins       ██████████████████░░░░░░░   73.27 % 
+CLI                      49 mins             ███████░░░░░░░░░░░░░░░░░░   26.73 % 
 
 🐱‍💻 Projects: 
-xboxArudino              3 hrs 35 mins       ████████████████████░░░░░   79.46 % 
-repo                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-agents                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-ODIwNWU1OTQtYjRkMi00YTAyL7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-xbox-multiplayer         5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+xboxArudino              2 hrs 37 mins       █████████████████████░░░░   84.24 % 
+repo                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+xbox-multiplayer         5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+InstrumentsStore         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Xbox-Agentic-Testing     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 💻 Operating System: 
-Windows                  4 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 55 mins (64.65%)
+⏱ AI Coding Time: 1 hr 33 mins (50.04%)
 
-✍️ 518 lines written by AI, 2 lines written by hand (99.62% AI-written)
+✍️ 1 lines written by AI, 2 lines written by hand (33.33% AI-written)
 
-🔤 1,081,794 Input Tokens, 4,701 Output Tokens
+🔤 10,279,953 Input Tokens, 94,542 Output Tokens
 
-💵 $3.32 Estimated AI Cost This Week
+💵 $33.10 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 31 AI Prompts
+🧠 5 AI Sessions, 69 AI Prompts
 
-Github-Copilot           518 lines           █████████████████████████   100.00 % 
+Github-Copilot           1 lines             █████████████████████████   100.00 % 
+Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.62% of written lines came from AI
-📚 Verbose Prompter — average 6,912 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.58% of changed lines were hand-edited
+⚖️ Balanced with AI — 33.33% of written lines came from AI
+📄 Detailed Prompter — average 765 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🔍 Hands-On Reviewer — 66.67% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -222,7 +224,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 02:37:57 UTC
+ Last Updated on 02/10/2026 02:44:21 UTC
 <!--END_SECTION:waka-->
 
 ## 🎧 Currently Listening
