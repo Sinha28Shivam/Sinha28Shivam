@@ -116,9 +116,9 @@
 ## ⏱️ Weekly Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2036%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-184%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-185%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
@@ -163,47 +163,47 @@ Sunday                   692 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 27 mins        ████████████░░░░░░░░░░░░░   46.81 % 
-Markdown                 56 mins             ████████░░░░░░░░░░░░░░░░░   30.48 % 
-Bash                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Image (jpeg)             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Python                   48 mins             ██████████░░░░░░░░░░░░░░░   41.99 % 
+Markdown                 41 mins             █████████░░░░░░░░░░░░░░░░   35.42 % 
+JSON                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Image (jpeg)             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 16 mins       ██████████████████░░░░░░░   73.27 % 
-CLI                      49 mins             ███████░░░░░░░░░░░░░░░░░░   26.73 % 
+VS Code                  1 hr 6 mins         ██████████████░░░░░░░░░░░   57.26 % 
+CLI                      49 mins             ███████████░░░░░░░░░░░░░░   42.74 % 
 
 🐱‍💻 Projects: 
-xboxArudino              2 hrs 37 mins       █████████████████████░░░░   84.24 % 
-repo                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-xbox-multiplayer         5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-InstrumentsStore         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-Xbox-Agentic-Testing     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+xboxArudino              1 hr 45 mins        ███████████████████████░░   90.39 % 
+xbox-multiplayer         5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+InstrumentsStore         2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+repo                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+routes                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 💻 Operating System: 
-Windows                  3 hrs 6 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 56 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 33 mins (50.04%)
+⏱ AI Coding Time: 1 hr 10 mins (60.81%)
 
 ✍️ 1 lines written by AI, 2 lines written by hand (33.33% AI-written)
 
-🔤 10,279,953 Input Tokens, 94,542 Output Tokens
+🔤 10,195,998 Input Tokens, 93,795 Output Tokens
 
-💵 $33.10 Estimated AI Cost This Week
+💵 $32.84 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 69 AI Prompts
+🧠 4 AI Sessions, 67 AI Prompts
 
 Github-Copilot           1 lines             █████████████████████████   100.00 % 
 Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 33.33% of written lines came from AI
-📄 Detailed Prompter — average 765 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
+📄 Detailed Prompter — average 786 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
 🔍 Hands-On Reviewer — 66.67% of changed lines were hand-edited
 ```
 
@@ -224,7 +224,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2026 02:44:21 UTC
+ Last Updated on 03/10/2026 02:30:05 UTC
 <!--END_SECTION:waka-->
 
 ## 🎧 Currently Listening
