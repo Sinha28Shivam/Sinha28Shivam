@@ -126,7 +126,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 199.3 kB Used in GitHub's Storage 
+> 📦 200.2 kB Used in GitHub's Storage 
  > 
 > 🏆 369 Contributions in the Year 2026
  > 
@@ -163,33 +163,33 @@ Sunday                   692 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   48 mins             ██████████░░░░░░░░░░░░░░░   41.99 % 
-Markdown                 41 mins             █████████░░░░░░░░░░░░░░░░   35.42 % 
-JSON                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Image (jpeg)             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+Python                   1 hr 2 mins         ██████████░░░░░░░░░░░░░░░   41.37 % 
+Markdown                 41 mins             ███████░░░░░░░░░░░░░░░░░░   27.38 % 
+HTML                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Image (jpeg)             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 
 🔥 Editors: 
-VS Code                  1 hr 6 mins         ██████████████░░░░░░░░░░░   57.26 % 
-CLI                      49 mins             ███████████░░░░░░░░░░░░░░   42.74 % 
+VS Code                  1 hr 40 mins        █████████████████░░░░░░░░   66.82 % 
+CLI                      49 mins             ████████░░░░░░░░░░░░░░░░░   33.18 % 
 
 🐱‍💻 Projects: 
-xboxArudino              1 hr 45 mins        ███████████████████████░░   90.39 % 
-xbox-multiplayer         5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-InstrumentsStore         2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-repo                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-routes                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+xboxArudino              2 hrs 19 mins       ███████████████████████░░   92.54 % 
+xbox-multiplayer         5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+InstrumentsStore         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+repo                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+routes                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 💻 Operating System: 
-Windows                  1 hr 56 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 10 mins (60.81%)
+⏱ AI Coding Time: 1 hr 10 mins (47.2%)
 
-✍️ 1 lines written by AI, 2 lines written by hand (33.33% AI-written)
+✍️ 1 lines written by AI, 1 lines written by hand (50.0% AI-written)
 
 🔤 10,195,998 Input Tokens, 93,795 Output Tokens
 
@@ -201,10 +201,10 @@ Github-Copilot           1 lines             ███████████�
 Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 33.33% of written lines came from AI
+⚖️ Balanced with AI — 50.0% of written lines came from AI
 📄 Detailed Prompter — average 786 characters per prompt
 🔁 Iterative Prompter — average 17 prompts per session
-🔍 Hands-On Reviewer — 66.67% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 50.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -224,7 +224,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 05/10/2026 02:33:50 UTC
+ Last Updated on 06/10/2026 03:28:19 UTC
 <!--END_SECTION:waka-->
 
 ## 🎧 Currently Listening
