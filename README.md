@@ -116,19 +116,19 @@
 ## ⏱️ Weekly Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%2012%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-185%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.91%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.92%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 200.2 kB Used in GitHub's Storage 
  > 
-> 🏆 369 Contributions in the Year 2026
+> 🏆 371 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -139,8 +139,8 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                506 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-🌆 Daytime                1136 commits        █████████░░░░░░░░░░░░░░░░   36.84 % 
+🌞 Morning                506 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+🌆 Daytime                1137 commits        █████████░░░░░░░░░░░░░░░░   36.86 % 
 🌃 Evening                723 commits         ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
 🌙 Night                  719 commits         ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
 ```
@@ -148,12 +148,12 @@
 
 ```text
 Monday                   583 commits         █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-Tuesday                  337 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-Wednesday                420 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Tuesday                  338 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Wednesday                420 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
 Thursday                 509 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
 Friday                   439 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
 Saturday                 104 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-Sunday                   692 commits         ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
+Sunday                   692 commits         ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
 ```
 
 
@@ -163,48 +163,43 @@ Sunday                   692 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 2 mins         ██████████░░░░░░░░░░░░░░░   41.37 % 
-Markdown                 41 mins             ███████░░░░░░░░░░░░░░░░░░   27.38 % 
-HTML                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-Image (jpeg)             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Python                   1 hr                ███████████░░░░░░░░░░░░░░   43.24 % 
+Markdown                 41 mins             ███████░░░░░░░░░░░░░░░░░░   29.28 % 
+HTML                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Image (jpeg)             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 
 🔥 Editors: 
-VS Code                  1 hr 40 mins        █████████████████░░░░░░░░   66.82 % 
-CLI                      49 mins             ████████░░░░░░░░░░░░░░░░░   33.18 % 
+VS Code                  1 hr 30 mins        ████████████████░░░░░░░░░   64.52 % 
+CLI                      49 mins             █████████░░░░░░░░░░░░░░░░   35.48 % 
 
 🐱‍💻 Projects: 
-xboxArudino              2 hrs 19 mins       ███████████████████████░░   92.54 % 
-xbox-multiplayer         5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-InstrumentsStore         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-repo                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-routes                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+xboxArudino              2 hrs 20 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 30 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 10 mins (47.2%)
+⏱ AI Coding Time: 56 mins (39.96%)
 
-✍️ 1 lines written by AI, 1 lines written by hand (50.0% AI-written)
+✍️ 0 lines written by AI, 2 lines written by hand (0.0% AI-written)
 
 🔤 10,195,998 Input Tokens, 93,795 Output Tokens
 
 💵 $32.84 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 67 AI Prompts
+🧠 2 AI Sessions, 62 AI Prompts
 
-Github-Copilot           1 lines             █████████████████████████   100.00 % 
 Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 50.0% of written lines came from AI
-📄 Detailed Prompter — average 786 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🔍 Hands-On Reviewer — 50.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 839 characters per prompt
+🔁 Iterative Prompter — average 31 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -224,7 +219,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 03:28:19 UTC
+ Last Updated on 07/10/2026 02:51:34 UTC
 <!--END_SECTION:waka-->
 
 ## 🎧 Currently Listening
