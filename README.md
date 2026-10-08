@@ -116,7 +116,7 @@
 ## ⏱️ Weekly Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%2019%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-185%20hrs%2023%20mins-blue?style=flat)
 
@@ -163,27 +163,27 @@ Sunday                   692 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr                ███████████░░░░░░░░░░░░░░   43.24 % 
-Markdown                 41 mins             ███████░░░░░░░░░░░░░░░░░░   29.28 % 
-HTML                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-Image (jpeg)             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Python                   1 hr                ███████████░░░░░░░░░░░░░░   44.63 % 
+Markdown                 36 mins             ███████░░░░░░░░░░░░░░░░░░   26.98 % 
+HTML                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Image (jpeg)             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 
 🔥 Editors: 
-VS Code                  1 hr 30 mins        ████████████████░░░░░░░░░   64.52 % 
-CLI                      49 mins             █████████░░░░░░░░░░░░░░░░   35.48 % 
+VS Code                  1 hr 26 mins        ████████████████░░░░░░░░░   63.34 % 
+CLI                      49 mins             █████████░░░░░░░░░░░░░░░░   36.66 % 
 
 🐱‍💻 Projects: 
-xboxArudino              2 hrs 20 mins       █████████████████████████   100.00 % 
+xboxArudino              2 hrs 15 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 56 mins (39.96%)
+⏱ AI Coding Time: 56 mins (41.3%)
 
 ✍️ 0 lines written by AI, 2 lines written by hand (0.0% AI-written)
 
@@ -219,7 +219,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2026 02:51:34 UTC
+ Last Updated on 08/10/2026 03:09:18 UTC
 <!--END_SECTION:waka-->
 
 ## 🎧 Currently Listening
