@@ -116,9 +116,9 @@
 ## ⏱️ Weekly Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-185%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-185%20hrs%2044%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -163,28 +163,29 @@ Sunday                   692 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     17 mins             ███████░░░░░░░░░░░░░░░░░░   27.89 % 
-Python                   16 mins             ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
-Markdown                 14 mins             ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
-YAML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-Other                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+HTML                     17 mins             ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
+Python                   16 mins             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Markdown                 14 mins             █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
+Other                    12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+YAML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
 
 🔥 Editors: 
-VS Code                  1 hr 4 mins         █████████████████████████   100.00 % 
+VS Code                  1 hr 4 mins         ██████████████████████░░░   89.45 % 
+Copilot CLI              7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
 
 🐱‍💻 Projects: 
-xboxArudino              57 mins             ███████████████████████░░   90.39 % 
-config                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+xboxArudino              1 hr 5 mins         ███████████████████████░░   91.40 % 
+config                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 💻 Operating System: 
-Windows                  1 hr 4 mins         █████████████████████████   100.00 % 
+Windows                  1 hr 11 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (32.7%)
+⏱ AI Coding Time: 28 mins (39.8%)
 
 ✍️ 0 lines written by AI, 2 lines written by hand (0.0% AI-written)
 
@@ -192,13 +193,13 @@ Windows                  1 hr 4 mins         ███████████�
 
 💵 $0.16 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 2 AI Prompts
+🧠 2 AI Sessions, 3 AI Prompts
 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 60 characters per prompt
+📝 Concise Prompter — average 99 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -220,7 +221,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 03:16:44 UTC
+ Last Updated on 10/10/2026 02:54:59 UTC
 <!--END_SECTION:waka-->
 
 ## 🎧 Currently Listening
