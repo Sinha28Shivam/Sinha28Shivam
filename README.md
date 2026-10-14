@@ -116,9 +116,9 @@
 ## ⏱️ Weekly Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-185%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-187%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -163,46 +163,50 @@ Sunday                   692 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   59 mins             █████████████░░░░░░░░░░░░   51.84 % 
-Other                    19 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-Markdown                 15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Git                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Python                   1 hr                █████████░░░░░░░░░░░░░░░░   37.33 % 
+Batchfile                22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Other                    19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Markdown                 18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Text                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
 
 🔥 Editors: 
-Copilot CLI              1 hr 21 mins        ██████████████████░░░░░░░   71.61 % 
-VS Code                  32 mins             ███████░░░░░░░░░░░░░░░░░░   28.39 % 
+Copilot CLI              1 hr 39 mins        ███████████████░░░░░░░░░░   61.01 % 
+VS Code                  41 mins             ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
+CLI                      21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
 
 🐱‍💻 Projects: 
-xboxArudino              1 hr 48 mins        ████████████████████████░   94.61 % 
-config                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+xboxArudino              1 hr 41 mins        ███████████████░░░░░░░░░░   61.99 % 
+OCRDebugImages           55 mins             █████████░░░░░░░░░░░░░░░░   34.24 % 
+config                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 💻 Operating System: 
-Windows                  1 hr 54 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 47 mins (93.95%)
+⏱ AI Coding Time: 2 hrs 36 mins (95.86%)
 
 ✍️ 1,007 lines written by AI, 1 lines written by hand (99.9% AI-written)
 
-🔤 28,829,467 Input Tokens, 136,637 Output Tokens
+🔤 49,584,175 Input Tokens, 260,310 Output Tokens
 
-💵 $118.38 Estimated AI Cost This Week
+💵 $213.13 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 9 AI Prompts
+🧠 5 AI Sessions, 64 AI Prompts
 
 Opus                     1,034 lines         █████████████████████████   100.00 % 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.9% of written lines came from AI
-📝 Concise Prompter — average 88 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.19% of changed lines were hand-edited
+📄 Detailed Prompter — average 638 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 0.1% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -222,7 +226,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 04:05:27 UTC
+ Last Updated on 14/10/2026 02:19:39 UTC
 <!--END_SECTION:waka-->
 
 ## 🎧 Currently Listening
