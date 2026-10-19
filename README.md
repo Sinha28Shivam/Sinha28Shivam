@@ -116,9 +116,9 @@
 ## ⏱️ Weekly Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-206%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-195%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-202%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -163,49 +163,50 @@ Sunday                   692 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   11 hrs              ██████████████░░░░░░░░░░░   57.90 % 
-Markdown                 3 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
-YAML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-HTML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Python                   11 hrs 13 mins      ███████████████░░░░░░░░░░   58.27 % 
+Markdown                 3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+YAML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+HTML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 
 🔥 Editors: 
-Copilot CLI              15 hrs 6 mins       ████████████████████░░░░░   79.49 % 
-VS Code                  3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-CLI                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Copilot CLI              15 hrs 6 mins       ████████████████████░░░░░   78.46 % 
+VS Code                  3 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+CLI                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 🐱‍💻 Projects: 
-xboxArudino              10 hrs 31 mins      ██████████████░░░░░░░░░░░   55.39 % 
-AI_Hackathon_2.0         7 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   38.28 % 
-OCRDebugImages           55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-Python-ChatBot           16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+xboxArudino              10 hrs 46 mins      ██████████████░░░░░░░░░░░   55.96 % 
+AI_Hackathon_2.0         7 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   37.78 % 
+OCRDebugImages           55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Python-ChatBot           16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  19 hrs              █████████████████████████   100.00 % 
+Windows                  19 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 6 mins (89.97%)
+⏱ AI Coding Time: 17 hrs 21 mins (90.1%)
 
 ✍️ 40,185 lines written by AI, 2,789 lines written by hand (93.51% AI-written)
 
-🔤 322,276,260 Input Tokens, 2,332,753 Output Tokens
+🔤 327,768,129 Input Tokens, 2,366,808 Output Tokens
 
-💵 $1329.20 Estimated AI Cost This Week
+💵 $1356.75 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 133 AI Prompts
+🧠 9 AI Sessions, 157 AI Prompts
 
 Opus                     40,103 lines        ████████████████████████░   97.93 % 
 GPT                      799 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 Github-Copilot-Cli       47 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Vscode                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 93.51% of written lines came from AI
-📄 Detailed Prompter — average 1,379 characters per prompt
+📄 Detailed Prompter — average 1,278 characters per prompt
 🔁 Iterative Prompter — average 17 prompts per session
 🚀 High AI Trust — 6.39% of changed lines were hand-edited
 ```
@@ -227,7 +228,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2026 01:41:14 UTC
+ Last Updated on 19/10/2026 01:58:54 UTC
 <!--END_SECTION:waka-->
 
 ## 🎧 Currently Listening
