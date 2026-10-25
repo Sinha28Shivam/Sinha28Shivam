@@ -163,50 +163,50 @@ Sunday                   692 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   7 hrs 26 mins       ███████████░░░░░░░░░░░░░░   45.71 % 
-Markdown                 3 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-JSON                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Bash                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-JavaScript               58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Python                   2 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   32.64 % 
+Markdown                 1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+JSON                     1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+JavaScript               58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Bash                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
 
 🔥 Editors: 
-Copilot CLI              12 hrs 12 mins      ███████████████████░░░░░░   75.09 % 
-VS Code                  2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-Codex Vscode             1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Copilot CLI              5 hrs 46 mins       ████████████████░░░░░░░░░   64.19 % 
+VS Code                  2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
+Codex Vscode             1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
 
 🐱‍💻 Projects: 
-AI_Hackathon_2.0         15 hrs 35 mins      ████████████████████████░   95.88 % 
-xboxArudino              40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+AI_Hackathon_2.0         8 hrs 18 mins       ███████████████████████░░   92.54 % 
+xboxArudino              40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  16 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 24 mins (94.79%)
+⏱ AI Coding Time: 8 hrs 24 mins (93.59%)
 
-✍️ 55,412 lines written by AI, 15 lines written by hand (99.97% AI-written)
+✍️ 23,425 lines written by AI, 3 lines written by hand (99.99% AI-written)
 
-🔤 325,857,912 Input Tokens, 2,734,394 Output Tokens
+🔤 51,684,848 Input Tokens, 701,632 Output Tokens
 
-💵 $1363.63 Estimated AI Cost This Week
+💵 $226.28 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 78 AI Prompts
+🧠 5 AI Sessions, 48 AI Prompts
 
-Opus                     54,702 lines        █████████████████████████   98.51 % 
-Github-Copilot-Cli       715 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-GPT                      115 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Opus                     22,692 lines        ████████████████████████░   96.66 % 
+Github-Copilot-Cli       668 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+GPT                      115 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 Vscode                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cline-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.97% of written lines came from AI
-📚 Verbose Prompter — average 3,036 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+🤖 AI-Driven — 99.99% of written lines came from AI
+📚 Verbose Prompter — average 2,156 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -226,7 +226,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 24/10/2026 02:07:35 UTC
+ Last Updated on 25/10/2026 01:54:35 UTC
 <!--END_SECTION:waka-->
 
 ## 🎧 Currently Listening
