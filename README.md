@@ -163,49 +163,48 @@ Sunday                   692 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   32.64 % 
-Markdown                 1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-JSON                     1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-JavaScript               58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-Bash                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+Python                   2 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   29.63 % 
+Markdown                 1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+JSON                     1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+JavaScript               58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Bash                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
 
 🔥 Editors: 
-Copilot CLI              5 hrs 46 mins       ████████████████░░░░░░░░░   64.19 % 
-VS Code                  2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
-Codex Vscode             1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Copilot CLI              6 hrs 7 mins        █████████████████░░░░░░░░   66.84 % 
+VS Code                  1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+Codex Vscode             1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
 
 🐱‍💻 Projects: 
-AI_Hackathon_2.0         8 hrs 18 mins       ███████████████████████░░   92.54 % 
-xboxArudino              40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+AI_Hackathon_2.0         8 hrs 18 mins       ███████████████████████░░   90.70 % 
+Sources                  25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+xboxArudino              25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 59 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 24 mins (93.59%)
+⏱ AI Coding Time: 8 hrs 35 mins (93.72%)
 
-✍️ 23,425 lines written by AI, 3 lines written by hand (99.99% AI-written)
+✍️ 23,620 lines written by AI, 3 lines written by hand (99.99% AI-written)
 
-🔤 51,684,848 Input Tokens, 701,632 Output Tokens
+🔤 46,192,979 Input Tokens, 667,577 Output Tokens
 
-💵 $226.28 Estimated AI Cost This Week
+💵 $198.74 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 48 AI Prompts
+🧠 5 AI Sessions, 28 AI Prompts
 
-Opus                     22,692 lines        ████████████████████████░   96.66 % 
-Github-Copilot-Cli       668 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Opus                     22,889 lines        ████████████████████████░   96.69 % 
+Github-Copilot-Cli       668 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 GPT                      115 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-Vscode                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Cline-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 2,156 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📚 Verbose Prompter — average 3,091 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
@@ -226,7 +225,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 01:54:35 UTC
+ Last Updated on 26/10/2026 01:56:47 UTC
 <!--END_SECTION:waka-->
 
 ## 🎧 Currently Listening
