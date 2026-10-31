@@ -116,9 +116,9 @@
 ## ⏱️ Weekly Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-229%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-229%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-218%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-218%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -126,13 +126,13 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 210.7 kB Used in GitHub's Storage 
+> 📦 223.7 kB Used in GitHub's Storage 
  > 
-> 🏆 426 Contributions in the Year 2026
+> 🏆 427 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 45 Public Repositories 
+> 📜 46 Public Repositories 
  > 
 > 🔑 15 Private Repositories 
  > 
@@ -163,59 +163,61 @@ Sunday                   692 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-PowerShell               3 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   41.86 % 
-Kotlin                   1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Markdown                 1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-Other                    1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-XML                      38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+PowerShell               3 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   30.72 % 
+Markdown                 2 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+Python                   1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Other                    1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Kotlin                   1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
 
 🔥 Editors: 
-Copilot CLI              7 hrs 24 mins       ████████████████████████░   94.68 % 
-VS Code                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+Copilot CLI              9 hrs 46 mins       ███████████████████░░░░░░   77.06 % 
+VS Code                  2 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
 
 🐱‍💻 Projects: 
-Sources                  3 hrs 33 mins       ███████████░░░░░░░░░░░░░░   45.40 % 
-Jarvis-AI                2 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   31.20 % 
-ScrapFolder              55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-cleanyourtv              41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-NetflixGameTestHCL       11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+xboxArudino              4 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   38.46 % 
+Sources                  3 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   28.02 % 
+Jarvis-AI                2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+ScrapFolder              55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+cleanyourtv              41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
 
 💻 Operating System: 
-Windows                  7 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 41 mins (98.24%)
+⏱ AI Coding Time: 12 hrs 26 mins (98.0%)
 
-✍️ 11,273 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 12,793 lines written by AI, 2 lines written by hand (99.98% AI-written)
 
-🔤 150,842,763 Input Tokens, 1,044,519 Output Tokens
+🔤 212,154,709 Input Tokens, 1,205,793 Output Tokens
 
-💵 $624.14 Estimated AI Cost This Week
+💵 $973.19 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 47 AI Prompts
+🧠 12 AI Sessions, 160 AI Prompts
 
-Opus                     11,330 lines        █████████████████████████   99.90 % 
-Github-Copilot-Cli       8 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-GPT                      3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Opus                     12,877 lines        █████████████████████████   99.91 % 
+Github-Copilot-Cli       8 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+GPT                      3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Vscode                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Cline-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📄 Detailed Prompter — average 673 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+🤖 AI-Driven — 99.98% of written lines came from AI
+📄 Detailed Prompter — average 887 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
 🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               17 repos            ████████░░░░░░░░░░░░░░░░░   31.48 % 
-Python                   14 repos            ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-HTML                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-TypeScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+JavaScript               17 repos            ████████░░░░░░░░░░░░░░░░░   30.91 % 
+Python                   15 repos            ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+HTML                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+TypeScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 
 
@@ -225,7 +227,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2026 03:07:15 UTC
+ Last Updated on 31/10/2026 02:54:09 UTC
 <!--END_SECTION:waka-->
 
 ## 🎧 Currently Listening
