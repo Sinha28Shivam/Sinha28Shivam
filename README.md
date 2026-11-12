@@ -1,10 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=220&section=header&text=Shivam%20Sinha&fontSize=60&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%40%20HCL%20%E2%80%A2%20Game%20Test%20Automation%20%E2%80%A2%20Agentic%20AI&descAlignY=55&descSize=18&color=0:6366f1,100:06b6d4&fontColor=ffffff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=220&section=header&text=Shivam%20Sinha&fontSize=60&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%40%20HCL%20%E2%80%A2%20Game%20Test%20Automation%20%E2%80%A2%20Agentic%20AI&descAlignY=55&descSize=18&color=0:a5b4fc,100:67e8f9&fontColor=1e1b4b" />
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&section=header&text=Shivam%20Sinha&fontSize=60&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%40%20HCL%20%E2%80%A2%20Game%20Test%20Automation%20%E2%80%A2%20Agentic%20AI&descAlignY=55&descSize=18&color=0:6366f1,100:06b6d4&fontColor=ffffff" width="100%" alt="Shivam Sinha - Software Developer @ HCL, Game Test Automation, Agentic AI" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=220&section=header&text=Shivam%20Sinha&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%40%20HCL%20%E2%80%A2%20Game%20Test%20Automation%20%E2%80%A2%20Agentic%20AI&descAlignY=55&descSize=18" width="100%" alt="Shivam Sinha - Software Developer @ HCL, Game Test Automation, Agentic AI" />
 
 <a href="https://github.com/Sinha28Shivam">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Software+Developer+%40+HCL+Technologies;Automation+%26+Game+Testing+Engineer;Learning+AI+%2F+ML+and+Generative+AI;Exploring+Agentic+AI+Systems" alt="Typing SVG" />
