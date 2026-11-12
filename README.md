@@ -73,7 +73,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sinha28Shivam&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+  <img src="https://ghchart.rshah.org/06b6d4/Sinha28Shivam" alt="contribution activity chart" width="100%" />
 </div>
 
 ## 🔥 Streak Stats
@@ -85,7 +85,7 @@
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sinha28Shivam&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy-ten.vercel.app/?username=Sinha28Shivam&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
 </div>
 
 ## 📌 Featured Projects
@@ -229,12 +229,6 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
  Last Updated on 01/11/2026 02:46:41 UTC
 <!--END_SECTION:waka-->
-
-## 🎧 Currently Listening
-
-<div align="center">
-  <img src="https://novatorem-sinha28shivam.vercel.app/api/spotify" alt="spotify currently playing" />
-</div>
 
 ## 🌐 Connect with Me
 

@@ -13,6 +13,8 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
+          # WakaTime no longer accepts plugin API keys (waka_...) here; this secret
+          # must hold a personal OAuth access token from https://wakatime.com/oauth
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_LINES_OF_CODE: "True"
