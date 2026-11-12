@@ -1,0 +1,43 @@
+name: Generate GitHub Stats Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once a day at midnight UTC
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/stats.yml
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      # GH_TOKEN (PAT with repo + read:user) lets count_private include private repos;
+      # falls back to the built-in token, which only sees public data.
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=Sinha28Shivam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true
+          path: profile/stats.svg
+          token: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=Sinha28Shivam&layout=compact&theme=tokyonight&hide_border=true
+          path: profile/top-langs.svg
+          token: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Push generated cards to the profile-stats branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: profile-stats
+          build_dir: profile
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

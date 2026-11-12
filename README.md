@@ -72,8 +72,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sinha28Shivam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="github stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sinha28Shivam&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="top languages" />
+  <img src="https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/profile-stats/stats.svg" height="165" alt="github stats" />
+  <img src="https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/profile-stats/top-langs.svg" height="165" alt="top languages" />
 </div>
 
 <div align="center">
