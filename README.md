@@ -116,15 +116,15 @@
 ## ⏱️ Weekly Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-241%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-243%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-231%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-233%20hrs%2012%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.78%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 227.3 kB Used in GitHub's Storage 
+> 📦 227.4 kB Used in GitHub's Storage 
  > 
 > 🏆 395 Contributions in the Year 2026
  > 
@@ -161,52 +161,51 @@ Sunday                   690 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   36.44 % 
-Markdown                 2 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   27.49 % 
-Other                    41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-YAML                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-TeX                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Python                   1 hr 56 mins        ████████░░░░░░░░░░░░░░░░░   31.68 % 
+Markdown                 1 hr 40 mins        ███████░░░░░░░░░░░░░░░░░░   27.30 % 
+YAML                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Other                    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+TeX                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
 
 🔥 Editors: 
-Copilot CLI              5 hrs 54 mins       ████████████████░░░░░░░░░   65.79 % 
-VS Code                  2 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   29.38 % 
-Codex Vscode             13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-Copilot                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Copilot CLI              3 hrs 54 mins       ████████████████░░░░░░░░░   63.66 % 
+VS Code                  2 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   33.00 % 
+Copilot                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 
 🐱‍💻 Projects: 
-AI_Hackathon_2.0         3 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   36.38 % 
-ps5-Arudino              3 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   35.66 % 
-ScrapFolder              1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-xboxArudino              32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-Sinha28Shivam            25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+AI_Hackathon_2.0         2 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   40.49 % 
+ps5-Arudino              1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
+ScrapFolder              1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
+xboxArudino              32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Sinha28Shivam            25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
 
 💻 Operating System: 
-Windows                  8 hrs 59 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 35 mins (95.55%)
+⏱ AI Coding Time: 5 hrs 51 mins (95.52%)
 
-✍️ 2,887 lines written by AI, 5 lines written by hand (99.83% AI-written)
+✍️ 1,578 lines written by AI, 2 lines written by hand (99.87% AI-written)
 
-🔤 71,701,196 Input Tokens, 209,095 Output Tokens
+🔤 47,278,942 Input Tokens, 86,229 Output Tokens
 
-💵 $462.07 Estimated AI Cost This Week
+💵 $186.90 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 96 AI Prompts
+🧠 8 AI Sessions, 75 AI Prompts
 
-Opus                     1,824 lines         ████████████████░░░░░░░░░   63.01 % 
-GPT                      1,071 lines         █████████░░░░░░░░░░░░░░░░   36.99 % 
+Opus                     1,581 lines         █████████████████████████   99.81 % 
+GPT                      3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 Vscode                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cline-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.83% of written lines came from AI
-📄 Detailed Prompter — average 617 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 2.66% of changed lines were hand-edited
+🤖 AI-Driven — 99.87% of written lines came from AI
+📄 Detailed Prompter — average 687 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.13% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -226,7 +225,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 13/11/2026 03:45:24 UTC
+ Last Updated on 14/11/2026 03:43:59 UTC
 <!--END_SECTION:waka-->
 
 ## 🌐 Connect with Me
