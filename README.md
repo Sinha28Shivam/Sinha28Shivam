@@ -161,51 +161,49 @@ Sunday                   690 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 56 mins        ████████░░░░░░░░░░░░░░░░░   31.68 % 
-Markdown                 1 hr 40 mins        ███████░░░░░░░░░░░░░░░░░░   27.30 % 
-YAML                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Other                    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-TeX                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+Other                    41 mins             ███████░░░░░░░░░░░░░░░░░░   27.64 % 
+Markdown                 36 mins             ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
+TeX                      27 mins             █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+YAML                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Text                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
 
 🔥 Editors: 
-Copilot CLI              3 hrs 54 mins       ████████████████░░░░░░░░░   63.66 % 
-VS Code                  2 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   33.00 % 
-Copilot                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Copilot CLI              1 hr 49 mins        ██████████████████░░░░░░░   72.58 % 
+VS Code                  20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Copilot                  20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
 
 🐱‍💻 Projects: 
-AI_Hackathon_2.0         2 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   40.49 % 
-ps5-Arudino              1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
-ScrapFolder              1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
-xboxArudino              32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-Sinha28Shivam            25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+ScrapFolder              1 hr 29 mins        ███████████████░░░░░░░░░░   59.66 % 
+xboxArudino              32 mins             █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+Sinha28Shivam            25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+ps5-Arudino              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 💻 Operating System: 
-Windows                  6 hrs 8 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 51 mins (95.52%)
+⏱ AI Coding Time: 2 hrs 23 mins (95.63%)
 
-✍️ 1,578 lines written by AI, 2 lines written by hand (99.87% AI-written)
+✍️ 369 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 47,278,942 Input Tokens, 86,229 Output Tokens
+🔤 16,828,699 Input Tokens, 161,043 Output Tokens
 
-💵 $186.90 Estimated AI Cost This Week
+💵 $69.76 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 75 AI Prompts
+🧠 6 AI Sessions, 25 AI Prompts
 
-Opus                     1,581 lines         █████████████████████████   99.81 % 
-GPT                      3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Vscode                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     369 lines           █████████████████████████   100.00 % 
 Cline-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.87% of written lines came from AI
-📄 Detailed Prompter — average 687 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.13% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 497 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -225,7 +223,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2026 03:23:11 UTC
+ Last Updated on 17/11/2026 05:23:09 UTC
 <!--END_SECTION:waka-->
 
 ## 🌐 Connect with Me
