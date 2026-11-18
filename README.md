@@ -161,49 +161,50 @@ Sunday                   690 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    41 mins             ███████░░░░░░░░░░░░░░░░░░   27.64 % 
-Markdown                 36 mins             ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
-TeX                      27 mins             █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-YAML                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Text                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Python                   1 hr 50 mins        █████████░░░░░░░░░░░░░░░░   35.13 % 
+YAML                     1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+Other                    50 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Markdown                 37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+TeX                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
 
 🔥 Editors: 
-Copilot CLI              1 hr 49 mins        ██████████████████░░░░░░░   72.58 % 
-VS Code                  20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Copilot                  20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Copilot CLI              3 hrs 34 mins       █████████████████░░░░░░░░   68.38 % 
+Copilot                  1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
+VS Code                  27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 
 🐱‍💻 Projects: 
-ScrapFolder              1 hr 29 mins        ███████████████░░░░░░░░░░   59.66 % 
-xboxArudino              32 mins             █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
-Sinha28Shivam            25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-ps5-Arudino              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+ps5-Arudino              2 hrs 15 mins       ███████████░░░░░░░░░░░░░░   43.25 % 
+ScrapFolder              1 hr 29 mins        ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+xboxArudino              36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+new device               26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+Sinha28Shivam            25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
 
 💻 Operating System: 
-Windows                  2 hrs 30 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 23 mins (95.63%)
+⏱ AI Coding Time: 5 hrs 3 mins (96.77%)
 
-✍️ 369 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,197 lines written by AI, 56 lines written by hand (97.51% AI-written)
 
-🔤 16,828,699 Input Tokens, 161,043 Output Tokens
+🔤 51,109,788 Input Tokens, 252,690 Output Tokens
 
-💵 $69.76 Estimated AI Cost This Week
+💵 $208.45 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 25 AI Prompts
+🧠 10 AI Sessions, 34 AI Prompts
 
-Opus                     369 lines           █████████████████████████   100.00 % 
+Opus                     2,203 lines         █████████████████████████   100.00 % 
 Cline-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 497 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 97.51% of written lines came from AI
+📝 Concise Prompter — average 435 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 2.48% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -223,7 +224,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 17/11/2026 05:23:09 UTC
+ Last Updated on 18/11/2026 04:50:42 UTC
 <!--END_SECTION:waka-->
 
 ## 🌐 Connect with Me
