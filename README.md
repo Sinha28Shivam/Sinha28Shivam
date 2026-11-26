@@ -161,47 +161,43 @@ Sunday                   690 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    51 mins             ████████████░░░░░░░░░░░░░   48.45 % 
-Python                   45 mins             ███████████░░░░░░░░░░░░░░   42.62 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Other                    51 mins             ██████████████░░░░░░░░░░░   57.64 % 
+Python                   37 mins             ███████████░░░░░░░░░░░░░░   42.36 % 
 
 🔥 Editors: 
-Copilot CLI              50 mins             ████████████░░░░░░░░░░░░░   47.66 % 
-Copilot                  38 mins             █████████░░░░░░░░░░░░░░░░   36.01 % 
-VS Code                  17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Copilot CLI              45 mins             █████████████░░░░░░░░░░░░   51.67 % 
+Copilot                  38 mins             ███████████░░░░░░░░░░░░░░   42.84 % 
+VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
 
 🐱‍💻 Projects: 
-ps5-Arudino              54 mins             █████████████░░░░░░░░░░░░   51.55 % 
-resume                   27 mins             ███████░░░░░░░░░░░░░░░░░░   26.21 % 
-new device               23 mins             ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
+ps5-Arudino              37 mins             ███████████░░░░░░░░░░░░░░   42.36 % 
+resume                   27 mins             ████████░░░░░░░░░░░░░░░░░   31.18 % 
+new device               23 mins             ███████░░░░░░░░░░░░░░░░░░   26.46 % 
 
 💻 Operating System: 
-Windows                  1 hr 45 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 28 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 33 mins (88.28%)
+⏱ AI Coding Time: 1 hr 28 mins (100.0%)
 
-✍️ 0 lines written by AI, 13 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 21,388,010 Input Tokens, 399,365 Output Tokens
+🔤 21,357,904 Input Tokens, 0 Output Tokens
 
-💵 $93.15 Estimated AI Cost This Week
+💵 $85.17 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 10 AI Prompts
+🧠 3 AI Sessions, 9 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 279 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 305 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -221,7 +217,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sinha28Shivam/Sinha28Shivam/main/assets/bar_graph.png)
 
 
- Last Updated on 25/11/2026 05:47:43 UTC
+ Last Updated on 26/11/2026 05:38:21 UTC
 <!--END_SECTION:waka-->
 
 ## 🌐 Connect with Me
